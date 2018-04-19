@@ -1,38 +1,41 @@
 <!doctype html>
-<html lang="en">
+<html lang="ru">
+
 <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- Required meta tags -->
+  <link rel="shortcut icon" href="assets\favicon_flexbby.ico">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu|Open+Sans" rel="stylesheet">
+  <meta charset="utf-8">
+  <meta name="author" content="Flexbby & Lapchinsky Vladimir">
+  <meta property="og:title" content="Flexbby (Flexible Business Applications)">
+  <meta property="og:description" content="Flexbby (Flexible Business Applications) ФЛЕКСБИ (Гибкие Бизнес Приложения) - автоматизация продаж, документооборота, электронного архива,  бизнес процессов, сервиса. CRM (customer relationship management), SaaS (Software as a Service).">
+  <meta property="og:image" content="https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png">
+  <meta name="description" content="Flexbby (Flexible Business Applications) ФЛЕКСБИ (Гибкие Бизнес Приложения) - автоматизация продаж, документооборота, электронного архива,  бизнес процессов, сервиса. CRM (customer relationship management), SaaS (Software as a Service).">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="main.css">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Releway" rel="stylesheet">
-    <link rel="stylesheet" href="main.css">
-    <title>Flexbby</title>
+  <title>Flexbby (Flexible Business Applications)</title>
 </head>
-<body>
 
+<body>
   <!--Navigation menu-->
   <nav class="navbar navbar-expand-md navbar-default">
     <div class="container">
-
       <!--Logo-->
       <a class="navbar-brand" href="#">
-        <img src="assets\main_page\logo.svg" alt="logo">
-      </a>
+            <img src="assets\main_page\logo.svg" alt="logo">
+            </a>
       <!--Logo END-->
-
       <!--Menu buttons-->
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <i class="fas fa-bars"></i>
-      </button>
+            <i class="fas fa-bars"></i>
+            </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ">
           <li class="nav-item" style="padding-left:0px">
-            <a class="nav-link" href="#">Решения <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="solutions.html">Решения</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Блог</a>
@@ -45,59 +48,308 @@
           </li>
         </ul>
         <!--Menu buttons END-->
-
         <!--Lang button-->
         <div class="dropdown" id="langMenu">
-          <a class="nav-link" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Язык:&nbsp;Русский&nbsp;<i class="fas fa-angle-down" style="vertical-align: middle"></i></a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <a class="dropdown-item" href="#">Русский</a>
-            <a class="dropdown-item" href="#">English</a>
-          </div>
+          <a class="nav-link" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Язык:&nbsp;Русский</a>
+          <!-- <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                     <a class="dropdown-item" href="#">Русский</a>
+                     <a class="dropdown-item" href="#">English</a>
+                  </div> -->
         </div>
         <!--Lang button END-->
       </div>
     </div>
   </nav>
   <!--Navigation menu END-->
-
-  <div class="container">
-    <div class="title-image-subtitle-button-block row">
-      <div class="half-block col-md-6 col-sm-12">
-        <div class="title">
-          <h1><b>Наша уникальная технология</b></h1>
+  <!-- Description container-->
+  <div class="white-block">
+    <div class="container title-image-subtitle-button-block">
+      <div class="row">
+        <div class="half-block col-md-7 col-sm-12">
+          <div class="title">
+            <h1>Наша уникальная технология</h1>
+          </div>
+          <!-- Mobile Image -->
+          <div class="mobile-img">
+            <img src="assets/main_page/computer_main.png" alt="">
+          </div>
+          <!-- Mobile Image END -->
+          <div class="subtitle">
+            <b>Flexbby One</b> – это многофункциональное высокотехнологичное решение для автоматизации бизнес-процессов компании, поддерживающее интеграцию с любыми видами программного обеспечения и позволяющее подключать неограниченное число пользователей.
+          </div>
+          <div class="button" data-toggle="modal" data-target="#ContactUsModal">
+            <div>Получить демодоступ</div>
+          </div>
         </div>
-        <div class="sm-img">
+        <div class="half-block desktop-img col-md-5">
           <img src="assets/main_page/computer_main.png" alt="Device Example Computer">
         </div>
-        <div class="subtitle">
-          <b>Flexbby One</b> – это многофункциональное высокотехнологичное решение для автоматизации бизнес-процессов компании, поддерживающее интеграцию с любыми видами программного обеспечения и позволяющее подключать неограниченное число пользователей.
-        </div>
-        <div class="button">
-          <div>Получить демодоступ</div>
-        </div>
-      </div>
-      <div class="half-block big-img col-md-6">
-          <img src="assets/main_page/computer_main.png" alt="Device Example Computer">
       </div>
     </div>
   </div>
-<div class="cloud-img-container container">
-  <img src="assets\main_page\сlouds.svg" alt="">
-</div>
-
-
-<!-- Optional JavaScript -->
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
-        crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
-        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
-        crossorigin="anonymous"></script>
-<script src="js/bootstrap.min.js"
-        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-        crossorigin="anonymous"></script>
-<!--FontAwesome -->
-<script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
+  <!-- Description container END-->
+  <!-- Cloud (img) container-->
+  <div class="cloud-img-container container"></div>
+  <!-- Cloud (img) container END-->
+  <!-- Third container-->
+  <div class="blue-block">
+    <div class="container title-subtitle">
+      <div class="row">
+        <div class="title">
+          <h1>Что автоматизирует Flexbby One?</h1>
+        </div>
+        <div class="subtitle">
+          Решение Flexbby One состоит из нескольких настраиваемых модулей, которые могут быть инсталлированы как по отдельности, так и в комплексе. Мы предлагаем Вам создать электронный архив, автоматизировать документооборот, управление продажами и взаимодействиями
+          с клиентами, проведение тендеров и закупок, обработку заявок и обращений. Изучите наши модули:
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--Third container END-->
+  <!-- Fourth container-->
+  <div class="blue-block">
+    <div class="container solutions-table">
+      <div class="row">
+        <div class="solution col-md-4 col-lg-6 col-sm-12">
+          <img src="assets\main_page\el_archive_modules_rocks.png" alt="">
+          <div class="button blue-button">
+            Электронный архив
+          </div>
+        </div>
+        <div class="solution solution-center col-md-4 col-lg-6 col-sm-12">
+          <img src="assets\main_page\docum_modules_rocks copy.png" alt="">
+          <div class="button blue-button">
+            Документооборот
+          </div>
+        </div>
+        <div class="solution col-md-4 col-lg-6 col-sm-12">
+          <img src="assets\main_page\crm_modules_rocks.png" alt="">
+          <div class="button blue-button">
+            Клиенты и Продажи
+          </div>
+        </div>
+        <div class="solution col-md-4 col-lg-6col-sm-12">
+          <img src="assets\main_page\tenders_modules_rocks.png" alt="">
+          <div class="button blue-button">
+            Закупки и Тендеры
+          </div>
+        </div>
+        <div class="solution solution-center col-md-4 col-lg-6 col-sm-12">
+          <img src="assets\main_page\serv_modules_rocks.png" alt="">
+          <div class="button blue-button">
+            Заявки и Обращения
+          </div>
+        </div>
+        <div class="solution col-md-4 col-lg-6 col-sm-12" id="rocket-solution">
+          <img src="assets\main_page\planet_rocket.png" alt="" style="width:131px; height: 157px;">
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--Fourth container END-->
+  <!-- Fifth (img) container-->
+  <div class="ground-img-container container"></div>
+  <!--Fifth (img) container END-->
+  <!-- Sixth container-->
+  <div class="dark-blue-block">
+    <div class="container title-subtitle">
+      <div class="row">
+        <div class="title col-12">
+          <h1>Почему Flexbby One?</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--Sixth container END-->
+  <!-- Seventh container-->
+  <div class="dark-blue-block">
+    <div class="container table-image-button">
+      <div class="row">
+        <div class="col-md-6 col-sm-12">
+          <ul class="blue-star-table">
+            <li>
+              <div class="table-title">
+                Интеллектуальное управление
+              </div>
+              <div class="table-subtitle">
+                мы создали такую технологию, которая в автоматическом режиме производит запуск всех необходимых бизнес-процессов
+              </div>
+            </li>
+            <li>
+              <div class="table-title">
+                Быстрый старт системы
+              </div>
+              <div class="table-subtitle">
+                мы установим преднастроенное решение Flexbby One за 1 час, чтобы Вы как можно скорее начали работать в нем
+              </div>
+            </li>
+            <li>
+              <div class="table-title">
+                Минимальные сроки внедрения
+              </div>
+              <div class="table-subtitle">
+                мы настроим Flexbby One под Ваши функциональные требования в кратчайшие сроки (от 15 дней)
+              </div>
+            </li>
+            <li>
+              <div class="table-title">
+                Работа в режиме online
+              </div>
+              <div class="table-subtitle">
+                мы автоматизируем бизнес-процессы с помощью Flexbby One так, чтобы Вы управляли событиями в режиме реального времени и без остановок
+              </div>
+            </li>
+            <li>
+              <div class="table-title">
+                Большие возможности
+              </div>
+              <div class="table-subtitle">
+                мы подключим любое число пользователей и произведем масштабирование решения Flexbby One на все филиалы компании холдинга при сохранении высокой производительности
+              </div>
+            </li>
+            <li>
+              <div class="table-title">
+                Поддержка всех операционных систем
+              </div>
+              <div class="table-subtitle">
+                мы настроили Flexbby One одновременно на десктопные и мобильные операционные системы
+              </div>
+            </li>
+            <li>
+              <div class="table-title">
+                Гибкая настройка
+              </div>
+              <div class="table-subtitle">
+                Мы проведем интеграцию со всеми типами Вашего программного обеспечения и настроим систему под весь необходимый функционал
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-6 col-sm-12">
+          <img src="assets\main_page\octps_flxbb.png" alt="">
+        </div>
+        <div class="col-md-6 col-sm-12">
+          <div class="button" data-toggle="modal" data-target="#ContactUsModal">
+            Получить демодоступ
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--Seventh container END-->
+  <!-- Footer -->
+  <div class="footer-block">
+    <div class="container footer">
+      <div class="row">
+        <div class="col-md-4 col-sm-12">
+          <div class="row">
+            <div class="footer-item col-md-6 col-sm-12">Поддержка</div>
+            <div class="footer-item col-md-6 col-sm-12">Контакты</div>
+          </div>
+        </div>
+        <div class="footer-item col-md-4 col-xs-12">
+          <div class="row social">
+            <div class="social-item col-md-4 col-xs-4">
+              <i class="fab fa-facebook"></i>
+            </div>
+            <div class="social-item col-md-4 col-xs-4">
+              <i class="fab fa-twitter-square"></i>
+            </div>
+            <div class="social-item col-md-4 col-xs-4">
+              <i class="fab fa-youtube"></i>
+            </div>
+          </div>
+        </div>
+        <div class="footer-item col-md-4 col-sm-12">
+          © 2018 Flexbby
+        </div>
+        <!-- <div class="col-md-3">
+                <img src="assets\main_page\Logo_of_the_Skolkovo_Foundation.svg" alt="Skolkovo" class="skolkovo float-right">
+              </div> -->
+      </div>
+    </div>
+  </div>
+  <!-- Footer END -->
+  <!-- Modal -->
+  <div class="modal fade" id="ContactUsModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-9" id="ModalTitleText">
+                <span>Заявка на бесплатный демодоступ</span>
+              </div>
+              <div class="col-3">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="padding: 50px 30px 0 0;">
+                  <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                </button>
+              </div>
+              <div class="col-12" id="ModalSubtitleText">
+                <span>Заполните и отправьте заявку на демонстрацию нашей системы или задайте любой вопрос о ней. Наши специалисты обязательно свяжутся с Вами в ближайшее время.</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="modal-body">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-7" id="UserForm">
+                <form>
+                  <div class="form-group row">
+                    <label for="inputPassword" class="col-sm-3 col-form-label">Ваше Имя</label>
+                    <div class="col-sm-9">
+                      <input type="text" class="form-control" id="UserName">
+                    </div>
+                  </div>
+                  <div class="form-group row">
+                    <label for="inputPassword" class="col-sm-3 col-form-label">Ваш Email</label>
+                    <div class="col-sm-9">
+                      <input type="email" class="form-control" id="UserEmail">
+                    </div>
+                  </div>
+                  <div class="form-group row">
+                    <label for="inputPassword" class="col-sm-3 col-form-label">Телефон</label>
+                    <div class="col-sm-9">
+                      <input type="number" class="form-control" id="UserNumber" placeholder="+7**********">
+                    </div>
+                  </div>
+                  <div class="form-group row">
+                    <label for="inputPassword" class="col-sm-3 col-form-label">Организация</label>
+                    <div class="col-sm-9">
+                      <input type="text" class="form-control" id="UserCompany">
+                    </div>
+                  </div>
+                  <div class="form-group row">
+                    <label for="inputPassword" class="col-sm-3 col-form-label">Комментарий</label>
+                    <div class="col-sm-9">
+                      <textarea class="form-control" id="UserComment" rows="2"></textarea>
+                    </div>
+                  </div>
+                </form>
+              </div>
+              <div class="col-5">
+                <img src="assets\star_search.png" alt="">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <div class="button blue-button float-left">
+            Отправить заявку
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Modal END -->
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  <!--FontAwesome -->
+  <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
 </body>
+
 </html>
