@@ -7,9 +7,21 @@
 }
 
 h1 {
-  font-family: 'Ubuntu';
+  font-family: 'Ubuntu', sans-serif;
   font-weight: 700;
   margin: 0 0 0 0;
+  font-size: 46px;
+  line-height: 56px;
+}
+
+@media (max-width: 430px) {
+  h1 {
+    font-size: 32px;
+  }
+}
+
+.navbar {
+  padding-bottom: 64px;
 }
 
 .nav-item {
@@ -56,24 +68,27 @@ a {
 }
 
 @media (max-width: 767.98px) {
-  .title-image-subtitle-button-block .big-img {
-    display: none;
+  .title-image-subtitle-button-block .title {
+    padding-bottom: 30px;
   }
 }
 
 @media (min-width: 767.98px) {
-  .title-image-subtitle-button-block .sm-img {
-    display: none;
+  .title-image-subtitle-button-block img {
+    padding-left: 20px;
   }
 }
 
 .title-image-subtitle-button-block .row {
-  margin: 64px 0 0 0;
+  margin: 0 0 0 0;
   padding: 0 0 0 0;
 }
 
 .title-image-subtitle-button-block img {
   width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .title-image-subtitle-button-block .half-block {
@@ -191,6 +206,15 @@ a {
   padding-top: 30px;
 }
 
+.subtitle {
+  letter-spacing: normal;
+  line-height: 24px;
+}
+
+.subtitle-small-padding {
+  padding-top: 12px !important;
+}
+
 .solution {
   height: 282px;
   max-width: 290px;
@@ -232,6 +256,27 @@ a {
   }
 }
 
+#rocket-solution {
+  background-color: #2F4989;
+  border: none;
+}
+
+.solution-description {
+  color: #FFFFFF;
+  padding: 64px 0 64px 0;
+}
+
+.solution-description .subtitle {
+  padding-top: 30px;
+}
+
+.solution-description img {
+  display: block;
+  margin: 0 auto 0 auto;
+  padding-top: 30px;
+  width: 100%;
+}
+
 .ground-img-container {
   background-image: url('assets/main_page/ground copy.svg');
   min-height: 50px;
@@ -242,7 +287,7 @@ a {
 }
 
 .yellow-star-table {
-  list-style-image: url('assets/solutions_page/Fill 24.svg');
+  list-style-image: url('assets/Fill 24.svg');
   padding: 50px 0px 30px 0px;
   color: #FFFFFF;
   margin: 0 0 0 0;
@@ -256,12 +301,17 @@ a {
 }
 
 .blue-star-table {
-  list-style-image: url('assets/main_page/Fill 16 Copy 6.svg');
+  list-style-image: url('assets/Fill 16 Copy 6.svg');
   padding: 50px 15px 0 15px;
+  margin-bottom: 30px;
+  color: #FEFEFE;
+}
+
+.blue-star-table .table-text {
+  padding-top: 12px;
 }
 
 .blue-star-table .table-title {
-  color: #FEFEFE;
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   font-weight: 700;
@@ -305,7 +355,9 @@ hr {
 @media (max-width: 767.98px) {
   .table-image-button .button {
     width: inherit;
-    margin-top: 82px;
+  }
+  .table-image-button img {
+    margin-bottom: 82px;
   }
 }
 
@@ -345,13 +397,8 @@ hr {
   background-color: #FFFFFF;
 }
 
-.modal-content .container-fluid{
+.modal-content .container-fluid {
   padding: 0 0 0 0;
-}
-
-.modal-dialog {
-  min-width: 939px;
-  min-height: 534px;
 }
 
 .modal-header #ModalTitleText {
@@ -360,7 +407,7 @@ hr {
   font-size: 24px;
   font-weight: bold;
   line-height: 24px;
-  padding: 40px 30px 0 30px;
+  padding: 40px 0px 0 30px;
 }
 
 .modal-header #ModalSubtitleText {
@@ -376,6 +423,7 @@ hr {
   height: 100%;
   padding: 0 0 0 0;
   display: block;
+  border-bottom: none;
 }
 
 .modal-footer {
@@ -383,6 +431,7 @@ hr {
   justify-content: flex-start;
   display: block;
   padding-left: 30px;
+  border-top: none;
 }
 
 .modal-footer .button {
@@ -390,6 +439,8 @@ hr {
 }
 
 .modal-body img {
+  width: 100%;
+  max-width: 274px;
   display: block;
   margin: 10px auto 10px auto;
 }
@@ -398,16 +449,34 @@ hr {
   padding: 0 0 0 0;
 }
 
-.modal-body .form-group{
+.modal-body .form-group {
   padding: 10px 0 10px 0;
 }
 
-.modal-body textarea{
+.modal-body textarea {
   padding: 0 15px 0 15px;
+  min-height: 60px;
 }
 
-input[type=number]::-webkit-inner-spin-button,
-input[type=number]::-webkit-outer-spin-button {
+input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button {
   -webkit-appearance: none;
   margin: 0;
+}
+
+@media (min-width: 768px) {
+  .modal-content {
+    width: 939px;
+  }
+  .modal-dialog {
+    width: 100%;
+    max-width: 939px;
+  }
+}
+
+@media (max-width: 768px) {
+  .modal-footer .blue-button {
+    width: 100%;
+    max-width: none;
+    margin: 15px 0 15px 0;
+  }
 }

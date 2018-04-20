@@ -3,13 +3,13 @@
 
 <head>
   <!-- Required meta tags -->
-  <link rel="shortcut icon" href="assets\favicon_flexbby.ico">
+  <link rel="shortcut icon" href="assets\favicon_5.ico">
   <link href="https://fonts.googleapis.com/css?family=Ubuntu|Open+Sans" rel="stylesheet">
   <meta charset="utf-8">
   <meta name="author" content="Flexbby & Lapchinsky Vladimir">
   <meta property="og:title" content="Flexbby (Flexible Business Applications)">
   <meta property="og:description" content="Flexbby (Flexible Business Applications) ФЛЕКСБИ (Гибкие Бизнес Приложения) - автоматизация продаж, документооборота, электронного архива,  бизнес процессов, сервиса. CRM (customer relationship management), SaaS (Software as a Service).">
-  <meta property="og:image" content="https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png">
+  <meta property="og:image" content="">
   <meta name="description" content="Flexbby (Flexible Business Applications) ФЛЕКСБИ (Гибкие Бизнес Приложения) - автоматизация продаж, документооборота, электронного архива,  бизнес процессов, сервиса. CRM (customer relationship management), SaaS (Software as a Service).">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <!-- Bootstrap CSS -->
@@ -24,7 +24,7 @@
   <nav class="navbar navbar-expand-md navbar-default">
     <div class="container">
       <!--Logo-->
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="main.html">
             <img src="assets\main_page\logo.svg" alt="logo">
             </a>
       <!--Logo END-->
@@ -38,7 +38,7 @@
             <a class="nav-link" href="solutions.html">Решения</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Блог</a>
+            <a class="nav-link" href="https://flexbby.com/ru/blog/">Блог</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">О&nbsp;нас</a>
@@ -110,37 +110,47 @@
   <div class="blue-block">
     <div class="container solutions-table">
       <div class="row">
-        <div class="solution col-md-4 col-lg-6 col-sm-12">
+        <div class="solution col-md-6 col-lg-4 col-sm-12">
           <img src="assets\main_page\el_archive_modules_rocks.png" alt="">
-          <div class="button blue-button">
-            Электронный архив
-          </div>
+          <a href="archive.html">
+            <div class="button blue-button">
+              Электронный архив
+            </div>
+          </a>
         </div>
-        <div class="solution solution-center col-md-4 col-lg-6 col-sm-12">
+        <div class="solution solution-center col-md-6 col-lg-4 col-sm-12">
           <img src="assets\main_page\docum_modules_rocks copy.png" alt="">
-          <div class="button blue-button">
-            Документооборот
-          </div>
+          <a href="workflow.html">
+            <div class="button blue-button">
+              Документооборот
+            </div>
+          </a>
         </div>
-        <div class="solution col-md-4 col-lg-6 col-sm-12">
+        <div class="solution col-md-6 col-lg-4 col-sm-12">
           <img src="assets\main_page\crm_modules_rocks.png" alt="">
-          <div class="button blue-button">
-            Клиенты и Продажи
-          </div>
+          <a href="crm.html">
+            <div class="button blue-button">
+              Клиенты и Продажи
+            </div>
+          </a>
         </div>
-        <div class="solution col-md-4 col-lg-6col-sm-12">
+        <div class="solution col-md-6 col-lg-4 col-sm-12">
           <img src="assets\main_page\tenders_modules_rocks.png" alt="">
-          <div class="button blue-button">
-            Закупки и Тендеры
-          </div>
+          <a href="tenders.html">
+            <div class="button blue-button">
+              Закупки и Тендеры
+            </div>
+          </a>
         </div>
-        <div class="solution solution-center col-md-4 col-lg-6 col-sm-12">
+        <div class="solution solution-center col-md-6 col-lg-4 col-sm-12">
           <img src="assets\main_page\serv_modules_rocks.png" alt="">
-          <div class="button blue-button">
-            Заявки и Обращения
-          </div>
+          <a href="service.html">
+            <div class="button blue-button">
+              Заявки и Обращения
+            </div>
+          </a>
         </div>
-        <div class="solution col-md-4 col-lg-6 col-sm-12" id="rocket-solution">
+        <div class="solution col-md-6 col-lg-4 col-sm-12" id="rocket-solution">
           <img src="assets\main_page\planet_rocket.png" alt="" style="width:131px; height: 157px;">
         </div>
       </div>
@@ -166,7 +176,7 @@
     <div class="container table-image-button">
       <div class="row">
         <div class="col-md-6 col-sm-12">
-          <ul class="blue-star-table">
+          <ul class="blue-star-table" style="margin-bottom:0;">
             <li>
               <div class="table-title">
                 Интеллектуальное управление
@@ -277,10 +287,10 @@
         <div class="modal-header">
           <div class="container-fluid">
             <div class="row">
-              <div class="col-9" id="ModalTitleText">
+              <div class="col-10" id="ModalTitleText">
                 <span>Заявка на бесплатный демодоступ</span>
               </div>
-              <div class="col-3">
+              <div class="col-2">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="padding: 50px 30px 0 0;">
                   <span aria-hidden="true"><i class="fas fa-times"></i></span>
                 </button>
@@ -294,7 +304,7 @@
         <div class="modal-body">
           <div class="container-fluid">
             <div class="row">
-              <div class="col-7" id="UserForm">
+              <div class="col-md-7 col-sm-12" id="UserForm">
                 <form>
                   <div class="form-group row">
                     <label for="inputPassword" class="col-sm-3 col-form-label">Ваше Имя</label>
@@ -311,7 +321,7 @@
                   <div class="form-group row">
                     <label for="inputPassword" class="col-sm-3 col-form-label">Телефон</label>
                     <div class="col-sm-9">
-                      <input type="number" class="form-control" id="UserNumber" placeholder="+7**********">
+                      <input type="number" class="form-control" id="UserNumber" placeholder="">
                     </div>
                   </div>
                   <div class="form-group row">
@@ -328,15 +338,19 @@
                   </div>
                 </form>
               </div>
-              <div class="col-5">
+              <div class="desktop-img col-md-5">
                 <img src="assets\star_search.png" alt="">
               </div>
             </div>
           </div>
         </div>
         <div class="modal-footer">
-          <div class="button blue-button float-left">
-            Отправить заявку
+          <div class="container-fluid">
+            <div class="row">
+              <div class="button blue-button col-xs-12 float-left">
+                Отправить заявку
+              </div>
+            </div>
           </div>
         </div>
       </div>
