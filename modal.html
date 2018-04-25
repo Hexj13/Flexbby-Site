@@ -1,26 +1,76 @@
-<form>
-  <div class="form-group row">
-    <label for="inputPassword" class="col-sm-2 col-form-label">Ваше Имя</label>
-    <div class="col-sm-10">
-      <input type="password" class="form-control" id="UserName" placeholder="Password">
+<div class="modal fade" id="ContactUsModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <!-- Modal content downloding here from modal.html-->
+      <div class="modal-header">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-10" id="ModalTitleText">
+              <span>Заявка на бесплатный демодоступ</span>
+            </div>
+            <div class="col-2">
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="padding: 50px 30px 0 0;">
+          <span aria-hidden="true"><i class="fas fa-times"></i></span>
+        </button>
+            </div>
+            <div class="col-12" id="ModalSubtitleText">
+              <span>Заполните и отправьте заявку на демонстрацию нашей системы или задайте любой вопрос о ней. Наши специалисты обязательно свяжутся с Вами в ближайшее время.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="modal-body">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-md-7 col-sm-12">
+              <form method="post" id="form">
+                <div class="form-group row">
+                  <label class="col-sm-3 col-form-label">Ваше Имя</label>
+                  <div class="col-sm-9">
+                    <input type="text" class="form-control" id="name" name="name" />
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label class="col-sm-3 col-form-label">Ваш Email</label>
+                  <div class="col-sm-9">
+                    <input type="email" class="form-control" id="email" name="email" />
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label class="col-sm-3 col-form-label">Телефон</label>
+                  <div class="col-sm-9">
+                    <input type="text" class="form-control" id="phone" placeholder="" name="phone" />
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label class="col-sm-3 col-form-label">Организация</label>
+                  <div class="col-sm-9">
+                    <input type="text" class="form-control" id="company" name="company" />
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label class="col-sm-3 col-form-label">Комментарий</label>
+                  <div class="col-sm-9">
+                    <textarea class="form-control" id="comment" rows="2" name="comment" />
+                  </div>
+                </div>
+              </form>
+            </div>
+            <div class="desktop-img col-md-5">
+              <img src="assets\star_search.png" alt="" />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="button blue-button col-xs-12 float-left" id="send">
+              Отправить заявку
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-  <div class="form-group row">
-    <label for="inputPassword" class="col-sm-2 col-form-label">Ваш Email</label>
-    <div class="col-sm-10">
-      <input type="password" class="form-control" id="UserEmail" placeholder="Password">
-    </div>
-  </div>
-  <div class="form-group row">
-    <label for="inputPassword" class="col-sm-2 col-form-label">Телефон</label>
-    <div class="col-sm-10">
-      <input type="password" class="form-control" id="UserNumber" placeholder="Password">
-    </div>
-  </div>
-  <div class="form-group row">
-    <label for="inputPassword" class="col-sm-2 col-form-label">PasswoОрганизацияrd</label>
-    <div class="col-sm-10">
-      <input type="password" class="form-control" id="UserCompany" placeholder="Password">
-    </div>
-  </div>
-</form>
+</div>
