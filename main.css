@@ -11,8 +11,10 @@
   border: none;
 }
 
+
+
 .about-block {
-  padding: 30px 12px;
+  padding: 30px 12px !important;
 }
 
 .about-block .subtitle {
@@ -120,14 +122,17 @@
   margin-top: 0 !important;
   opacity: 1;
   padding: 30px 26px 0 0 !important;
+  outline: none;
 }
 
 .close:active {
   color: #466BB9;
+  outline: none;
 }
 
 .close:hover {
   color: #7692CB;
+  outline: none !important;
 }
 
 .cloud-img-container {
@@ -145,12 +150,12 @@
 }
 
 .company-block {
-  background-color: inherit!important;
-  border: 0!important;
-  height: 100%!important;
-  margin: 15px 0!important;
-  padding: 0 8px!important;
-  text-align: center!important;
+  background-color: inherit !important;
+  border: 0 !important;
+  height: 100% !important;
+  margin: 15px 0 !important;
+  padding: 0 8px !important;
+  text-align: center !important;
 }
 
 .company-block .subtitle {
@@ -211,6 +216,18 @@
   height: inherit;
 }
 
+.footer a {
+  text-decoration: none;
+  color: #C1C9CD;
+}
+
+.active-menu {
+  border-top-width: 8px;
+  margin-top: -8px;
+  border-top-color: #4A66AF;
+  border-top-style: solid;
+}
+
 .footer-block {
   background-color: #42527A;
   color: #C1C9CD;
@@ -225,6 +242,10 @@
   min-height: 52px;
   padding: 18px 0;
   vertical-align: middle;
+}
+
+.footer-item:hover{
+  font-weight: 700;
 }
 
 .ground-img-container {
@@ -382,7 +403,7 @@
   display: block;
   margin: 0 auto;
   padding-top: 30px;
-  width: 100%;
+  width: auto;
 }
 
 .subtitle {
@@ -529,6 +550,10 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
   .title-image-subtitle-button-block .title {
     padding-bottom: 30px;
   }
+  .active-menu {
+    border-top-width: 0;
+    margin-top: 0;
+  }
 }
 
 @media (min-width:767.98px) {
@@ -561,7 +586,20 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
     max-width: 939px;
     width: 100%;
   }
+  #support-footer , #contacts-footer, #youtube-footer {
+    text-align: left;
+  }
+ #label-footer, #facebook-footer{
+   text-align: right;
+ }
+ .footer-block{
+   background-image: url('assets/Logo_of_the_Skolkovo_Foundation.svg');
+   background-repeat: no-repeat;
+   background-position: right;
+   background-size: auto 100%;
+ }
 }
+
 
 @media (max-width: 768px) {
   .modal-footer .blue-button {
@@ -574,5 +612,20 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
 @media (min-width: 768px) and (max-width: 810px) {
   #navbarDropdownMenuLink {
     display: none;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1100px) {
+  #label-footer {
+    text-align: center;
+  }
+}
+
+@media (max-width: 575px) {
+  .company-block {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
   }
 }

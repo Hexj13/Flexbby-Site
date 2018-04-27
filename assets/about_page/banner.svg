@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="298px" height="438px" viewBox="0 0 298 438" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>4EEFD4BC-2CDC-41AD-BAFA-4E5BBB7B33E0</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M15,0 C6.715,0 0,6.716 0,15 L0,423.001 C0,431.284 6.715,438 15,438 L283,438 C291.283,438 297.999,431.284 297.999,423.001 L297.999,15 C297.999,6.716 291.283,0 283,0 L15,0 Z" id="path-1"></path>
+        <path d="M0.959,7.409 C0.959,3.698 3.975,0.689 7.7,0.689 C11.426,0.689 14.445,3.698 14.445,7.409 C14.445,11.122 11.426,14.131 7.7,14.131 C3.975,14.131 0.959,11.122 0.959,7.409 Z" id="path-3"></path>
+        <path d="M7.594,0.831 L35.812,0.831 C39.748,0.831 42.941,4.012 42.941,7.935 L0.465,7.935 C0.465,4.012 3.655,0.831 7.594,0.831 Z" id="path-5"></path>
+        <polygon id="path-7" points="0.651 0.83 7.745 0.83 7.745 7.934 0.651 7.934"></polygon>
+        <polygon id="path-9" points="0.177 23.297 27.231 0.297 38.532 13.522 36.759 15.021 26.969 3.566 3.331 23.664 23.867 51.604 23.867 74.69 21.54 74.69 21.54 52.36"></polygon>
+        <path d="M0.266,4.641 C0.266,2.468 2.034,0.702 4.22,0.702 C6.402,0.702 8.171,2.468 8.171,4.641 C8.171,6.815 6.402,8.581 4.22,8.581 C2.034,8.581 0.266,6.815 0.266,4.641 Z" id="path-11"></path>
+        <path d="M0.73,4.605 C0.73,2.432 2.497,0.668 4.684,0.668 C6.865,0.668 8.635,2.432 8.635,4.605 C8.635,6.782 6.865,8.545 4.684,8.545 C2.497,8.545 0.73,6.782 0.73,4.605 Z" id="path-13"></path>
+        <path d="M0.149,4.323 C0.149,2.151 1.916,0.383 4.1,0.383 C6.285,0.383 8.054,2.151 8.054,4.323 C8.054,6.496 6.285,8.264 4.1,8.264 C1.916,8.264 0.149,6.496 0.149,4.323 Z" id="path-15"></path>
+        <path d="M0.985,9.756 C0.985,4.89 4.939,0.947 9.818,0.947 C14.698,0.947 18.655,4.89 18.655,9.756 C18.655,14.617 14.698,18.561 9.818,18.561 C4.939,18.561 0.985,14.617 0.985,9.756 Z" id="path-17"></path>
+        <path d="M3.016,2.664 C4.436,1.489 6.157,0.914 7.869,0.914 C10.05,0.914 12.214,1.846 13.718,3.647 L14.287,4.326 C16.182,6.601 19.029,7.869 21.995,7.757 C24.958,7.644 27.806,8.911 29.699,11.184 L32.377,14.279 L9.22,33.461 L6.542,30.366 C4.647,28.093 3.917,25.068 4.57,22.188 C5.221,19.304 4.496,16.283 2.597,14.009 L2.029,13.331 C-0.655,10.114 -0.211,5.337 3.016,2.664 Z" id="path-19"></path>
+        <path d="M2.028,11.33 C-0.653,8.112 -0.213,3.34 3.015,0.662 L21.271,21.48 L9.218,31.459 L6.543,28.365 C4.649,26.09 3.92,23.069 4.568,20.187 C5.22,17.306 4.494,14.282 2.595,12.008 L2.028,11.33 Z" id="path-21"></path>
+        <polygon id="path-23" points="0.969 0.394 11.597 0.394 11.597 12 0.969 12"></polygon>
+        <polygon id="path-25" points="0.969 0.144 11.597 0.144 11.597 6.459 0.969 6.459"></polygon>
+        <path d="M0.715,0.589 L37.85,0.589 C37.85,6.05 33.408,10.473 27.928,10.473 L10.639,10.473 C5.16,10.473 0.715,6.05 0.715,0.589 Z" id="path-27"></path>
+        <path d="M60.999,15.414 L60.999,76.978 C55.881,83.634 48.218,87.864 39.654,87.864 L28.494,87.864 C13.082,87.864 0.588,74.168 0.588,57.272 L0.588,37.244 C0.588,16.966 15.58,0.534 34.073,0.534 C45.11,0.534 54.899,6.386 60.999,15.414 Z" id="path-29"></path>
+        <path d="M4.538,0.571 L48.542,0.571 C50.984,0.571 52.962,2.542 52.962,4.976 L52.962,65.45 C52.962,68.009 50.88,70.082 48.312,70.082 L4.763,70.082 C2.196,70.082 0.113,68.009 0.113,65.45 L0.113,4.976 C0.113,2.542 2.094,0.571 4.538,0.571 Z" id="path-31"></path>
+        <path d="M46.107,0.421 C46.108,0.421 46.108,0.421 46.109,0.421 C55.493,0.422 60.094,7.596 55.271,29.002 L2.241,28.101 C2.241,28.101 -6.15,1.721 9.715,4.268 C25.579,6.812 33.987,2.228 41.838,0.834 C43.348,0.566 44.776,0.422 46.107,0.421 Z" id="path-33"></path>
+        <path d="M58.393,0.377 C58.396,0.377 58.399,0.377 58.403,0.377 C60.109,0.377 61.496,1.756 61.503,3.458 C61.505,5.162 60.122,6.549 58.41,6.556 L3.996,6.707 C2.285,6.712 0.89,5.332 0.888,3.626 C0.881,1.92 2.268,0.532 3.978,0.529 L58.393,0.377 Z" id="path-35"></path>
+        <path d="M36.531,0.717 C36.531,0.717 36.532,0.717 36.532,0.717 C45.724,0.718 53.065,8.46 52.624,17.723 L49.181,100.951 C48.943,106.721 44.248,111.281 38.515,111.319 L16.298,111.455 C10.565,111.491 5.817,106.985 5.504,101.221 L1.029,18.041 C0.473,8.749 7.772,0.895 17.01,0.836 L36.432,0.717 C36.464,0.717 36.498,0.717 36.531,0.717 Z" id="path-37"></path>
+        <path d="M0.072,1.19 L44.517,0.89 L44.18,8.951 C43.943,14.72 39.247,19.283 33.515,19.318 L11.297,19.455 C5.568,19.49 0.816,14.985 0.506,9.221 L0.072,1.19 Z" id="path-39"></path>
+        <polygon id="path-41" points="23.335 26.558 28.496 0.234 39.451 2.369 32.525 37.682 0.955 37.682 0.955 26.558"></polygon>
+        <polygon id="path-43" points="19.8 7.82 49.412 0.998 47.238 53.613 3.435 53.906 0.606 1.327"></polygon>
+        <polygon id="path-45" points="33.344 18.006 36.097 0.79 45.989 20.425 45.236 38.614 1.434 38.906 0.491 21.347 7.92 18.468"></polygon>
+        <polygon id="path-47" points="0.415 3.606 5.8 0.82 10.557 3.972 7.296 6.572 4.387 6.584"></polygon>
+        <path d="M19.8,6.819 L49.411,0.001 L28.177,12.327 L19.8,6.819 Z M9.977,12.327 L0.605,0.327 L19.8,6.819 L9.977,12.327 Z" id="path-49"></path>
+        <polygon id="path-51" points="3.388 0.584 6.297 0.573 9.82 27.418 4.896 31.809 0.028 27.038"></polygon>
+        <polygon id="path-53" points="0.877 0.358 8.878 0.214 9.82 7.417 4.896 11.808 0.029 7.037"></polygon>
+        <path d="M25.423,0.001 L25.961,0.001 C27.59,0.022 29.306,0.237 31.086,0.708 C32.904,1.191 25.519,4.373 27.506,3.961 C36.194,2.167 40.505,4.93 40.029,5.938 C39.55,6.946 33.132,7.924 39.25,15.036 C42.737,19.095 31.487,27.136 10.985,23.247 C-4.769,20.261 -2.892,1.894 14.534,0.208 C17.473,-0.08 11.333,4.037 12.637,4.539 C15.153,2.484 19.736,0.075 25.423,0.001 Z" id="path-55"></path>
+        <path d="M8.379,0.612 C9.573,0.59 10.709,0.546 11.732,0.546 C14.502,0.546 16.444,0.869 16.481,2.835 C16.534,5.524 13.017,9.431 8.596,9.511 C4.173,9.591 0.515,5.821 0.465,3.131 C0.418,0.439 3.958,0.694 8.379,0.612 Z" id="path-57"></path>
+        <path d="M0.072,3.505 C1.866,2.276 4.976,0.528 8.143,0.528 C9.582,0.528 11.033,0.889 12.378,1.823 C11.012,3.749 8.503,5.456 5.593,5.512 C3.472,5.548 1.527,4.697 0.072,3.505 Z" id="path-59"></path>
+        <path d="M2.683,0.758 C2.71,0.757 2.736,0.756 2.763,0.756 C3.818,0.756 4.723,1.897 4.803,3.351 C4.883,4.843 4.064,6.1 2.976,6.156 C1.887,6.215 0.934,5.053 0.857,3.562 C0.774,2.071 1.591,0.82 2.683,0.758 Z" id="path-61"></path>
+        <path d="M0.362,1.935 C1.088,1.424 2.438,0.835 4.002,0.835 C5.138,0.835 6.388,1.147 7.588,2.027 C7.898,2.253 7.964,2.691 7.738,3 C7.61,3.174 7.414,3.269 7.211,3.281 C7.056,3.291 6.899,3.245 6.762,3.148 C3.997,1.122 1.198,3.05 1.168,3.071 C0.854,3.293 0.419,3.216 0.199,2.904 C-0.028,2.588 0.05,2.157 0.362,1.935 Z" id="path-63"></path>
+        <path d="M3.95,0.159 C3.992,0.157 4.033,0.156 4.075,0.156 C4.084,0.156 4.093,0.156 4.103,0.156 C5.919,0.156 7.427,1.58 7.508,3.402 C7.588,5.279 6.134,6.865 4.25,6.948 C2.367,7.035 0.776,5.579 0.692,3.708 C0.612,1.832 2.067,0.244 3.95,0.159 Z" id="path-65"></path>
+        <path d="M0.144,3.351 C0.222,1.897 1.13,0.756 2.185,0.756 C2.212,0.756 2.238,0.757 2.265,0.758 C3.354,0.82 4.172,2.071 4.092,3.562 C4.012,5.053 3.06,6.215 1.971,6.156 C0.883,6.1 0.064,4.843 0.144,3.351 Z" id="path-67"></path>
+        <path d="M0.36,2.027 C1.562,1.147 2.811,0.835 3.948,0.835 C5.51,0.835 6.861,1.424 7.584,1.935 C7.9,2.157 7.974,2.588 7.751,2.904 C7.528,3.216 7.093,3.293 6.778,3.071 C6.747,3.05 3.948,1.122 1.184,3.148 C1.05,3.245 0.893,3.291 0.735,3.281 C0.536,3.269 0.339,3.174 0.209,3 C-0.018,2.691 0.05,2.253 0.36,2.027 Z" id="path-69"></path>
+        <path d="M3.843,0.156 C3.852,0.156 3.862,0.156 3.871,0.156 C3.913,0.156 3.954,0.157 3.996,0.159 C5.88,0.244 7.338,1.832 7.254,3.708 C7.17,5.579 5.579,7.035 3.696,6.948 C1.815,6.865 0.357,5.279 0.44,3.402 C0.519,1.58 2.03,0.156 3.843,0.156 Z" id="path-71"></path>
+        <path d="M3.896,0.251 C3.932,0.251 3.967,0.251 4.003,0.251 C13.2,0.251 21.236,7.062 19.624,17.723 L19.284,26.848 L16.741,26.848 C16.708,9.685 5.119,3.62 5.119,3.62 L0.216,0.734 L3.896,0.251 Z" id="path-73"></path>
+        <path d="M79.999,0.255 L79.999,10.605 L5.72,10.605 C2.593,10.605 0.055,8.076 0.055,4.96 C0.055,2.363 2.167,0.255 4.777,0.255 L79.999,0.255 Z" id="path-75"></path>
+        <path d="M7.784,34 L1.212,34 L0.525,16.789 C0.525,11.639 3.417,9.32 7.243,7.224 L17.971,0.746 L18.942,7.162 L8.212,13.64 C7.138,14.186 7.029,15.116 7.029,16.477 L7.784,34 Z" id="path-77"></path>
+        <path d="M7.502,34 L0.932,34 L0.243,16.789 C0.243,11.639 3.137,9.32 6.961,7.224 L17.689,0.746 L18.66,7.162 L7.93,13.64 C6.857,14.186 6.746,15.116 6.746,16.477 L7.502,34 Z" id="path-79"></path>
+        <path d="M0.688,7.808 C0.688,1.382 10.527,0.846 13.813,0.846 C14.471,0.846 14.867,0.868 14.867,0.868 L14.867,7.808 L0.688,7.808 Z" id="path-81"></path>
+        <path d="M31.653,0.645 C31.654,0.645 31.654,0.645 31.655,0.645 C34.461,0.646 36.883,2.755 37.187,5.61 C37.496,8.473 37.865,12.131 38.177,15.852 C38.579,20.548 38.805,24.355 38.855,27.168 C38.929,31.272 39.01,35.924 34.913,37.738 C34.026,38.132 32.697,38.719 19.832,38.719 C15.148,38.719 8.936,38.642 0.659,38.447 L0.92,27.326 C10.915,27.56 22.012,27.658 27.712,27.507 C27.627,22.953 26.954,14.767 26.094,6.79 C25.77,3.765 27.948,1.043 30.977,0.685 L30.983,0.685 C31.208,0.658 31.432,0.645 31.653,0.645 Z" id="path-83"></path>
+        <polygon id="path-85" points="0.193 0.736 169.999 0.736 169.999 12.781 0.193 12.781"></polygon>
+        <polygon id="path-87" points="0.193 0.736 169.999 0.736 169.999 4.44 0.193 4.44"></polygon>
+        <polygon id="path-89" points="0.589 0.736 10.999 0.736 10.999 12.781 0.589 12.781"></polygon>
+        <polygon id="path-91" points="0.589 0.736 10.999 0.736 10.999 4.44 0.589 4.44"></polygon>
+        <polygon id="path-93" points="0.846 0.781 10.147 0.781 10.147 30 0.846 30"></polygon>
+        <polygon id="path-95" points="0.846 0.78 10.147 0.78 10.147 5.868 0.846 5.868"></polygon>
+        <path d="M6.999,15.001 C6.999,19.9716471 4.58041573,24.3779818 0.856,27.1072515 L0.856,0.781 L6.999,0.781 L6.999,15.001 Z" id="path-97"></path>
+        <polygon id="path-99" points="0.856 0.78 6.999 0.78 6.999 5.868 0.856 5.868"></polygon>
+        <polygon id="path-101" points="0.431 0.781 9.734 0.781 9.734 30 0.431 30"></polygon>
+        <polygon id="path-103" points="0.431 0.78 9.734 0.78 9.734 5.868 0.431 5.868"></polygon>
+        <path d="M0.18,0.321 L54.44,0.321 C54.44,2.316 52.816,3.935 50.813,3.935 L3.807,3.935 C1.805,3.935 0.18,2.316 0.18,0.321 Z" id="path-105"></path>
+        <path d="M0.181,0.189 L54.438,0.189 L54.438,0.544 C54.438,1.825 53.4,1.935 52.115,1.935 L2.506,1.935 C1.222,1.935 0.181,1.825 0.181,0.544 L0.181,0.189 Z" id="path-107"></path>
+        <path d="M3.919,0.207 L52.937,0.207 C54.642,0.207 56.023,1.586 56.023,3.287 L60.673,35.731 C60.673,37.429 59.29,38.808 57.584,38.808 L9.502,38.808 C7.796,38.808 5.616,36.792 5.616,35.096 L0.665,3.347 C0.665,1.648 2.214,0.207 3.919,0.207 Z" id="path-109"></path>
+        <polygon id="path-111" points="1.118 0.208 12.591 0.208 12.126 4.195 0.654 4.195"></polygon>
+        <path d="M3.918,0.26 L52.007,0.26 C53.71,0.26 55.093,1.637 55.093,3.337 L59.742,34.392 C59.742,36.09 58.36,37.469 56.655,37.469 L8.572,37.469 C6.867,37.469 5.483,36.09 5.483,34.392 L0.833,3.337 C0.833,1.637 2.214,0.26 3.918,0.26 Z" id="path-113"></path>
+        <path d="M0.344,0.321 L52.744,0.321 C52.744,2.316 51.12,3.935 49.115,3.935 L3.971,3.935 C1.968,3.935 0.344,2.316 0.344,0.321 Z" id="path-115"></path>
+        <path d="M0.345,0.189 L52.742,0.189 L52.742,0.544 C52.742,1.825 51.702,1.935 50.416,1.935 L2.668,1.935 C1.387,1.935 0.345,1.825 0.345,0.544 L0.345,0.189 Z" id="path-117"></path>
+        <path d="M3.919,0.26 L35.249,0.26 L5.49,34.546 C5.488,34.496 5.481,34.442 5.481,34.392 L0.835,3.337 C0.835,1.638 2.214,0.26 3.919,0.26 Z" id="path-119"></path>
+        <path d="M0.621,3.719 C0.621,1.738 2.327,0.133 4.428,0.133 C6.528,0.133 8.234,1.738 8.234,3.719 C8.234,5.696 6.528,7.302 4.428,7.302 C2.327,7.302 0.621,5.696 0.621,3.719 Z" id="path-121"></path>
+        <polygon id="path-123" points="0.183 0.21 28.611 0.21 28.611 12 0.183 12"></polygon>
+        <polygon id="path-125" points="0.612 0.21 13.576 0.21 13.576 12 0.612 12"></polygon>
+        <polygon id="path-127" points="0.045 0.04 28.471 0.04 28.471 4.208 0.045 4.208"></polygon>
+        <polygon id="path-129" points="0.471 0.04 13.435 0.04 13.435 4.208 0.471 4.208"></polygon>
+        <polygon id="path-131" points="0.111 0.856 28.539 0.856 28.539 8.04 0.111 8.04"></polygon>
+        <polygon id="path-133" points="0.539 0.856 13.503 0.856 13.503 8.04 0.539 8.04"></polygon>
+        <polygon id="path-135" points="1.98 0.208 9.612 0.208 9.612 1.48 0.486 0.314"></polygon>
+        <path d="M0.113,0.04 L28.541,0.04 L0.113,0.04 Z" id="path-137"></path>
+        <polygon id="path-139" points="0.29 0.04 10.52 0.04 4.13 1.921"></polygon>
+        <polygon id="path-141" points="0.005 0.631 34.266 0.631 34.266 8 0.005 8"></polygon>
+        <polygon id="path-143" points="0.647 0.631 13.901 0.631 13.901 8 0.647 8"></polygon>
+        <path d="M2.675,0.31 L10.667,0.31 C11.678,0.31 12.5,1.125 12.5,2.135 C12.5,3.142 11.678,3.96 10.667,3.96 L2.675,3.96 C1.667,3.96 0.845,3.142 0.845,2.135 C0.845,1.125 1.667,0.31 2.675,0.31 Z" id="path-145"></path>
+        <path d="M2.776,0.31 L7.667,0.31 C8.678,0.31 9.5,1.125 9.5,2.134 C9.5,3.141 8.678,3.96 7.667,3.96 L2.776,3.96 C1.765,3.96 0.945,3.141 0.945,2.134 C0.945,1.125 1.765,0.31 2.776,0.31 Z" id="path-147"></path>
+        <path d="M9.624,0.437 L6.413,5.452 C6.386,5.493 6.346,5.521 6.298,5.531 L0.496,6.87 C0.336,6.907 0.299,7.116 0.437,7.204 L5.453,10.417 C5.492,10.442 5.521,10.482 5.533,10.528 L6.869,16.333 C6.906,16.493 7.116,16.529 7.203,16.391 L10.414,11.376 C10.441,11.336 10.483,11.306 10.529,11.296 L16.334,9.959 C16.493,9.923 16.529,9.712 16.391,9.625 L11.377,6.413 C11.335,6.386 11.306,6.345 11.297,6.298 L9.96,0.495 C9.938,0.403 9.858,0.353 9.778,0.353 C9.72,0.353 9.661,0.379 9.624,0.437 Z" id="path-149"></path>
+        <path d="M4.728,0.522 L4.661,6.477 C4.66,6.525 4.641,6.571 4.606,6.605 L0.393,10.814 C0.278,10.93 0.359,11.128 0.522,11.129 L6.477,11.195 C6.525,11.196 6.571,11.215 6.605,11.248 L10.814,15.463 C10.93,15.578 11.127,15.498 11.128,15.333 L11.194,9.38 C11.195,9.332 11.215,9.285 11.249,9.252 L15.463,5.042 C15.578,4.927 15.498,4.73 15.334,4.728 L9.38,4.661 C9.331,4.66 9.285,4.641 9.252,4.605 L5.042,0.394 C5.005,0.356 4.958,0.339 4.912,0.339 C4.818,0.339 4.729,0.412 4.728,0.522 Z" id="path-151"></path>
+        <path d="M5.116,0.181 L4.634,6.117 C4.63,6.165 4.608,6.209 4.57,6.24 L0.075,10.146 C-0.048,10.253 0.018,10.456 0.181,10.468 L6.117,10.951 C6.165,10.954 6.209,10.977 6.24,11.012 L10.146,15.51 C10.253,15.634 10.456,15.567 10.469,15.403 L10.949,9.469 C10.954,9.42 10.976,9.374 11.012,9.344 L15.51,5.439 C15.633,5.331 15.566,5.13 15.402,5.117 L9.468,4.635 C9.419,4.63 9.374,4.608 9.344,4.571 L5.439,0.074 C5.401,0.031 5.35,0.011 5.301,0.011 C5.212,0.011 5.125,0.076 5.116,0.181 Z" id="path-153"></path>
+    </defs>
+    <g id="About" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1131.000000, -225.000000)">
+        <g id="Page-1" transform="translate(1131.000000, 225.000000)">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <polygon id="Fill-1" fill="#1F5DBF" opacity="0.349999994" mask="url(#mask-2)" points="-5 443 303 443 303 -5 -5 -5"></polygon>
+            </g>
+            <g id="Group-230" transform="translate(128.000000, 289.000000)">
+                <g id="Group-6" transform="translate(35.000000, 93.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <polygon id="Fill-4" fill="#4A3A4F" mask="url(#mask-4)" points="-4.041 19.131 19.445 19.131 19.445 -4.311 -4.041 -4.311"></polygon>
+                </g>
+                <g id="Group-9" transform="translate(21.000000, 100.000000)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="Clip-8"></g>
+                    <polygon id="Fill-7" fill="#F47672" mask="url(#mask-6)" points="-4.534 12.935 47.941 12.935 47.941 -4.169 -4.534 -4.169"></polygon>
+                </g>
+                <g id="Group-229">
+                    <g id="Group-12" transform="translate(28.000000, 100.000000)">
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <g id="Clip-11"></g>
+                        <polygon id="Fill-10" fill="#F7877B" mask="url(#mask-8)" points="-4.349 12.934 12.745 12.934 12.745 -4.17 -4.349 -4.17"></polygon>
+                    </g>
+                    <g id="Group-15" transform="translate(20.000000, 19.000000)">
+                        <mask id="mask-10" fill="white">
+                            <use xlink:href="#path-9"></use>
+                        </mask>
+                        <g id="Clip-14"></g>
+                        <polygon id="Fill-13" fill="#F3F0F7" mask="url(#mask-10)" points="-4.823 79.69 43.531 79.69 43.531 -4.704 -4.823 -4.704"></polygon>
+                    </g>
+                    <g id="Group-18" transform="translate(18.000000, 38.000000)">
+                        <mask id="mask-12" fill="white">
+                            <use xlink:href="#path-11"></use>
+                        </mask>
+                        <g id="Clip-17"></g>
+                        <polygon id="Fill-16" fill="#403345" mask="url(#mask-12)" points="-4.733 13.581 13.172 13.581 13.172 -4.299 -4.733 -4.299"></polygon>
+                    </g>
+                    <g id="Group-21" transform="translate(38.000000, 67.000000)">
+                        <mask id="mask-14" fill="white">
+                            <use xlink:href="#path-13"></use>
+                        </mask>
+                        <g id="Clip-20"></g>
+                        <polygon id="Fill-19" fill="#403345" mask="url(#mask-14)" points="-4.27 13.545 13.635 13.545 13.635 -4.332 -4.27 -4.332"></polygon>
+                    </g>
+                    <g id="Group-24" transform="translate(43.000000, 17.000000)">
+                        <mask id="mask-16" fill="white">
+                            <use xlink:href="#path-15"></use>
+                        </mask>
+                        <g id="Clip-23"></g>
+                        <polygon id="Fill-22" fill="#403345" mask="url(#mask-16)" points="-4.851 13.264 13.054 13.264 13.054 -4.616 -4.851 -4.616"></polygon>
+                    </g>
+                    <g id="Group-27" transform="translate(59.000000, 37.000000)">
+                        <mask id="mask-18" fill="white">
+                            <use xlink:href="#path-17"></use>
+                        </mask>
+                        <g id="Clip-26"></g>
+                        <polygon id="Fill-25" fill="#FFC266" mask="url(#mask-18)" points="-4.015 23.561 23.655 23.561 23.655 -4.052 -4.015 -4.052"></polygon>
+                    </g>
+                    <g id="Group-30" transform="translate(51.000000, 26.000000)">
+                        <mask id="mask-20" fill="white">
+                            <use xlink:href="#path-19"></use>
+                        </mask>
+                        <g id="Clip-29"></g>
+                        <polygon id="Fill-28" fill="#F7877B" mask="url(#mask-20)" points="-4.727 38.461 37.377 38.461 37.377 -4.086 -4.727 -4.086"></polygon>
+                    </g>
+                    <g id="Group-33" transform="translate(51.000000, 28.000000)">
+                        <mask id="mask-22" fill="white">
+                            <use xlink:href="#path-21"></use>
+                        </mask>
+                        <g id="Clip-32"></g>
+                        <polygon id="Fill-31" fill="#F05862" mask="url(#mask-22)" points="-4.727 36.459 26.271 36.459 26.271 -4.338 -4.727 -4.338"></polygon>
+                    </g>
+                    <g id="Group-36" transform="translate(134.000000, 137.000000)">
+                        <mask id="mask-24" fill="white">
+                            <use xlink:href="#path-23"></use>
+                        </mask>
+                        <g id="Clip-35"></g>
+                        <polygon id="Fill-34" fill="#B8BED1" mask="url(#mask-24)" points="-4.031 23.046 16.597 23.046 16.597 -4.606 -4.031 -4.606"></polygon>
+                    </g>
+                    <g id="Group-39" transform="translate(134.000000, 135.000000)">
+                        <mask id="mask-26" fill="white">
+                            <use xlink:href="#path-25"></use>
+                        </mask>
+                        <g id="Clip-38"></g>
+                        <polygon id="Fill-37" fill="#9FA5B5" mask="url(#mask-26)" points="-4.031 11.459 16.597 11.459 16.597 -4.856 -4.031 -4.856"></polygon>
+                    </g>
+                    <g id="Group-48" transform="translate(121.000000, 128.000000)">
+                        <mask id="mask-28" fill="white">
+                            <use xlink:href="#path-27"></use>
+                        </mask>
+                        <g id="Clip-47"></g>
+                        <polygon id="Fill-46" fill="#3C2F40" mask="url(#mask-28)" points="-4.285 15.473 42.85 15.473 42.85 -4.411 -4.285 -4.411"></polygon>
+                    </g>
+                    <g id="Group-51" transform="translate(109.000000, 33.000000)">
+                        <mask id="mask-30" fill="white">
+                            <use xlink:href="#path-29"></use>
+                        </mask>
+                        <g id="Clip-50"></g>
+                        <polygon id="Fill-49" fill="#B8BED1" mask="url(#mask-30)" points="-4.412 92.864 72.559 92.864 72.559 -4.466 -4.412 -4.466"></polygon>
+                    </g>
+                    <g id="Group-54" transform="translate(117.000000, 48.000000)">
+                        <mask id="mask-32" fill="white">
+                            <use xlink:href="#path-31"></use>
+                        </mask>
+                        <g id="Clip-53"></g>
+                        <polygon id="Fill-52" fill="#9497AB" mask="url(#mask-32)" points="-4.887 75.081 57.963 75.081 57.963 -4.43 -4.887 -4.43"></polygon>
+                    </g>
+                    <g id="Group-57" transform="translate(108.000000, 8.000000)">
+                        <mask id="mask-34" fill="white">
+                            <use xlink:href="#path-33"></use>
+                        </mask>
+                        <g id="Clip-56"></g>
+                        <polygon id="Fill-55" fill="#603141" mask="url(#mask-34)" points="-4.977 34.002 62.209 34.002 62.209 -4.578 -4.977 -4.578"></polygon>
+                    </g>
+                    <g id="Group-60" transform="translate(106.000000, 35.000000)">
+                        <mask id="mask-36" fill="white">
+                            <use xlink:href="#path-35"></use>
+                        </mask>
+                        <g id="Clip-59"></g>
+                        <polygon id="Fill-58" fill="#F59784" mask="url(#mask-36)" points="-4.113 11.706 66.502 11.706 66.502 -4.623 -4.113 -4.623"></polygon>
+                    </g>
+                    <g id="Group-63" transform="translate(110.000000, 15.000000)">
+                        <mask id="mask-38" fill="white">
+                            <use xlink:href="#path-37"></use>
+                        </mask>
+                        <g id="Clip-62"></g>
+                        <polygon id="Fill-61" fill="#FEC3A6" mask="url(#mask-38)" points="-4 116.455 57.644 116.455 57.644 -4.283 -4 -4.283"></polygon>
+                    </g>
+                    <g id="Group-66" transform="translate(115.000000, 107.000000)">
+                        <mask id="mask-40" fill="white">
+                            <use xlink:href="#path-39"></use>
+                        </mask>
+                        <g id="Clip-65"></g>
+                        <polygon id="Fill-64" fill="#4A3A4F" mask="url(#mask-40)" points="-4.928 24.455 49.517 24.455 49.517 -4.11 -4.928 -4.11"></polygon>
+                    </g>
+                    <g id="Group-69" transform="translate(85.000000, 71.000000)">
+                        <mask id="mask-42" fill="white">
+                            <use xlink:href="#path-41"></use>
+                        </mask>
+                        <g id="Clip-68"></g>
+                        <polygon id="Fill-67" fill="#DDDAE0" mask="url(#mask-42)" points="-4.045 42.682 44.451 42.682 44.451 -4.766 -4.045 -4.766"></polygon>
+                    </g>
+                    <g id="Group-72" transform="translate(112.000000, 61.000000)">
+                        <mask id="mask-44" fill="white">
+                            <use xlink:href="#path-43"></use>
+                        </mask>
+                        <g id="Clip-71"></g>
+                        <polygon id="Fill-70" fill="#F3F0F7" mask="url(#mask-44)" points="-4.394 58.906 54.413 58.906 54.413 -4.002 -4.394 -4.002"></polygon>
+                    </g>
+                    <g id="Group-75" transform="translate(114.000000, 76.000000)">
+                        <mask id="mask-46" fill="white">
+                            <use xlink:href="#path-45"></use>
+                        </mask>
+                        <g id="Clip-74"></g>
+                        <polygon id="Fill-73" fill="#DDDAE0" mask="url(#mask-46)" points="-4.509 43.906 50.989 43.906 50.989 -4.211 -4.509 -4.211"></polygon>
+                    </g>
+                    <g id="Group-78" transform="translate(126.000000, 68.000000)">
+                        <mask id="mask-48" fill="white">
+                            <use xlink:href="#path-47"></use>
+                        </mask>
+                        <g id="Clip-77"></g>
+                        <polygon id="Fill-76" fill="#7785D4" mask="url(#mask-48)" points="-4.585 11.583 15.558 11.583 15.558 -4.181 -4.585 -4.181"></polygon>
+                    </g>
+                    <g id="Group-81" transform="translate(112.000000, 62.000000)">
+                        <mask id="mask-50" fill="white">
+                            <use xlink:href="#path-49"></use>
+                        </mask>
+                        <g id="Clip-80"></g>
+                        <polygon id="Fill-79" fill="#FBF7FF" mask="url(#mask-50)" points="-4.395 17.327 54.412 17.327 54.412 -5 -4.395 -5"></polygon>
+                    </g>
+                    <g id="Group-84" transform="translate(127.000000, 74.000000)">
+                        <mask id="mask-52" fill="white">
+                            <use xlink:href="#path-51"></use>
+                        </mask>
+                        <g id="Clip-83"></g>
+                        <polygon id="Fill-82" fill="#7785D4" mask="url(#mask-52)" points="-4.972 36.809 14.82 36.809 14.82 -4.427 -4.972 -4.427"></polygon>
+                    </g>
+                    <g id="Group-87" transform="translate(127.000000, 94.000000)">
+                        <mask id="mask-54" fill="white">
+                            <use xlink:href="#path-53"></use>
+                        </mask>
+                        <g id="Clip-86"></g>
+                        <polygon id="Fill-85" fill="#6B78BF" mask="url(#mask-54)" points="-4.971 16.808 14.82 16.808 14.82 -4.787 -4.971 -4.787"></polygon>
+                    </g>
+                    <g id="Group-90" transform="translate(111.000000, 0.000000)">
+                        <mask id="mask-56" fill="white">
+                            <use xlink:href="#path-55"></use>
+                        </mask>
+                        <g id="Clip-89"></g>
+                        <polygon id="Fill-88" fill="#603141" mask="url(#mask-56)" points="-4.766 29.281 45.065 29.281 45.065 -5 -4.766 -5"></polygon>
+                    </g>
+                    <g id="Group-93" transform="translate(125.000000, 48.000000)">
+                        <mask id="mask-58" fill="white">
+                            <use xlink:href="#path-57"></use>
+                        </mask>
+                        <g id="Clip-92"></g>
+                        <polygon id="Fill-91" fill="#BA3C43" mask="url(#mask-58)" points="-4.536 14.513 21.481 14.513 21.481 -4.454 -4.536 -4.454"></polygon>
+                    </g>
+                    <g id="Group-96" transform="translate(128.000000, 52.000000)">
+                        <mask id="mask-60" fill="white">
+                            <use xlink:href="#path-59"></use>
+                        </mask>
+                        <g id="Clip-95"></g>
+                        <polygon id="Fill-94" fill="#F7636C" mask="url(#mask-60)" points="-4.928 10.513 17.378 10.513 17.378 -4.472 -4.928 -4.472"></polygon>
+                    </g>
+                    <g id="Group-99" transform="translate(116.000000, 37.000000)">
+                        <mask id="mask-62" fill="white">
+                            <use xlink:href="#path-61"></use>
+                        </mask>
+                        <g id="Clip-98"></g>
+                        <polygon id="Fill-97" fill="#603141" mask="url(#mask-62)" points="-4.149 11.158 9.807 11.158 9.807 -4.245 -4.149 -4.245"></polygon>
+                    </g>
+                    <g id="Group-102" transform="translate(115.000000, 33.000000)">
+                        <mask id="mask-64" fill="white">
+                            <use xlink:href="#path-63"></use>
+                        </mask>
+                        <g id="Clip-101"></g>
+                        <polygon id="Fill-100" fill="#603141" mask="url(#mask-64)" points="-4.932 8.282 12.872 8.282 12.872 -4.165 -4.932 -4.165"></polygon>
+                    </g>
+                    <g id="Group-105" transform="translate(113.000000, 48.000000)">
+                        <mask id="mask-66" fill="white">
+                            <use xlink:href="#path-65"></use>
+                        </mask>
+                        <g id="Clip-104"></g>
+                        <polygon id="Fill-103" fill="#FCAB96" mask="url(#mask-66)" points="-4.311 11.951 12.511 11.951 12.511 -4.845 -4.311 -4.845"></polygon>
+                    </g>
+                    <g id="Group-108" transform="translate(146.000000, 37.000000)">
+                        <mask id="mask-68" fill="white">
+                            <use xlink:href="#path-67"></use>
+                        </mask>
+                        <g id="Clip-107"></g>
+                        <polygon id="Fill-106" fill="#603141" mask="url(#mask-68)" points="-4.862 11.158 9.098 11.158 9.098 -4.245 -4.862 -4.245"></polygon>
+                    </g>
+                    <g id="Group-111" transform="translate(144.000000, 33.000000)">
+                        <mask id="mask-70" fill="white">
+                            <use xlink:href="#path-69"></use>
+                        </mask>
+                        <g id="Clip-110"></g>
+                        <polygon id="Fill-109" fill="#603141" mask="url(#mask-70)" points="-4.925 8.282 12.88 8.282 12.88 -4.165 -4.925 -4.165"></polygon>
+                    </g>
+                    <g id="Group-114" transform="translate(146.000000, 48.000000)">
+                        <mask id="mask-72" fill="white">
+                            <use xlink:href="#path-71"></use>
+                        </mask>
+                        <g id="Clip-113"></g>
+                        <polygon id="Fill-112" fill="#FCAB96" mask="url(#mask-72)" points="-4.563 11.951 12.257 11.951 12.257 -4.845 -4.563 -4.845"></polygon>
+                    </g>
+                    <g id="Group-117" transform="translate(143.000000, 15.000000)">
+                        <mask id="mask-74" fill="white">
+                            <use xlink:href="#path-73"></use>
+                        </mask>
+                        <g id="Clip-116"></g>
+                        <polygon id="Fill-115" fill="#603141" mask="url(#mask-74)" points="-4.784 31.848 24.83 31.848 24.83 -4.749 -4.784 -4.749"></polygon>
+                    </g>
+                    <g id="Group-120" transform="translate(90.000000, 122.000000)">
+                        <mask id="mask-76" fill="white">
+                            <use xlink:href="#path-75"></use>
+                        </mask>
+                        <g id="Clip-119"></g>
+                        <polygon id="Fill-118" fill="#9497AB" mask="url(#mask-76)" points="-4.945 15.605 91.558 15.605 91.558 -4.745 -4.945 -4.745"></polygon>
+                    </g>
+                    <g id="Group-123" transform="translate(103.000000, 115.000000)">
+                        <mask id="mask-78" fill="white">
+                            <use xlink:href="#path-77"></use>
+                        </mask>
+                        <g id="Clip-122"></g>
+                        <polygon id="Fill-121" fill="#4A3A4F" mask="url(#mask-78)" points="-4.475 47.73 23.942 47.73 23.942 -4.253 -4.475 -4.253"></polygon>
+                    </g>
+                    <g id="Group-126" transform="translate(127.000000, 115.000000)">
+                        <mask id="mask-80" fill="white">
+                            <use xlink:href="#path-79"></use>
+                        </mask>
+                        <g id="Clip-125"></g>
+                        <polygon id="Fill-124" fill="#4A3A4F" mask="url(#mask-80)" points="-4.757 47.73 23.66 47.73 23.66 -4.253 -4.757 -4.253"></polygon>
+                    </g>
+                    <g id="Group-129" transform="translate(110.000000, 97.000000)">
+                        <mask id="mask-82" fill="white">
+                            <use xlink:href="#path-81"></use>
+                        </mask>
+                        <g id="Clip-128"></g>
+                        <polygon id="Fill-127" fill="#FFA897" mask="url(#mask-82)" points="-4.313 12.808 19.867 12.808 19.867 -4.154 -4.313 -4.154"></polygon>
+                    </g>
+                    <g id="Group-132" transform="translate(124.000000, 70.000000)">
+                        <mask id="mask-84" fill="white">
+                            <use xlink:href="#path-83"></use>
+                        </mask>
+                        <g id="Clip-131"></g>
+                        <polygon id="Fill-130" fill="#F3F0F7" mask="url(#mask-84)" points="-4.341 43.719 43.876 43.719 43.876 -4.355 -4.341 -4.355"></polygon>
+                    </g>
+                    <g id="Group-135" transform="translate(0.000000, 107.000000)">
+                        <mask id="mask-86" fill="white">
+                            <use xlink:href="#path-85"></use>
+                        </mask>
+                        <g id="Clip-134"></g>
+                        <polygon id="Fill-133" fill="#DBBDAB" mask="url(#mask-86)" points="-4.807 17.781 221.176 17.781 221.176 -4.264 -4.807 -4.264"></polygon>
+                    </g>
+                    <g id="Group-138" transform="translate(0.000000, 107.000000)">
+                        <mask id="mask-88" fill="white">
+                            <use xlink:href="#path-87"></use>
+                        </mask>
+                        <g id="Clip-137"></g>
+                        <polygon id="Fill-136" fill="#F0CFBB" mask="url(#mask-88)" points="-4.807 9.441 221.176 9.441 221.176 -4.264 -4.807 -4.264"></polygon>
+                    </g>
+                    <g id="Group-141" transform="translate(159.000000, 107.000000)">
+                        <mask id="mask-90" fill="white">
+                            <use xlink:href="#path-89"></use>
+                        </mask>
+                        <g id="Clip-140"></g>
+                        <polygon id="Fill-139" fill="#C7AC9B" mask="url(#mask-90)" points="-4.411 17.781 62.176 17.781 62.176 -4.264 -4.411 -4.264"></polygon>
+                    </g>
+                    <g id="Group-144" transform="translate(159.000000, 107.000000)">
+                        <mask id="mask-92" fill="white">
+                            <use xlink:href="#path-91"></use>
+                        </mask>
+                        <g id="Clip-143"></g>
+                        <polygon id="Fill-142" fill="#D9BCA9" mask="url(#mask-92)" points="-4.411 9.441 62.176 9.441 62.176 -4.264 -4.411 -4.264"></polygon>
+                    </g>
+                    <g id="Group-147" transform="translate(4.000000, 119.000000)">
+                        <mask id="mask-94" fill="white">
+                            <use xlink:href="#path-93"></use>
+                        </mask>
+                        <g id="Clip-146"></g>
+                        <polygon id="Fill-145" fill="#DBBDAB" mask="url(#mask-94)" points="-4.154 53.812 15.147 53.812 15.147 -4.219 -4.154 -4.219"></polygon>
+                    </g>
+                    <g id="Group-150" transform="translate(4.000000, 119.000000)">
+                        <mask id="mask-96" fill="white">
+                            <use xlink:href="#path-95"></use>
+                        </mask>
+                        <g id="Clip-149"></g>
+                        <polygon id="Fill-148" fill="#C7AC9B" mask="url(#mask-96)" points="-4.154 10.868 15.147 10.868 15.147 -4.22 -4.154 -4.22"></polygon>
+                    </g>
+                    <g id="Group-153" transform="translate(163.000000, 119.000000)">
+                        <mask id="mask-98" fill="white">
+                            <use xlink:href="#path-97"></use>
+                        </mask>
+                        <g id="Clip-152"></g>
+                        <polygon id="Fill-151" fill="#DBBDAB" mask="url(#mask-98)" points="-4.144 53.812 15.157 53.812 15.157 -4.219 -4.144 -4.219"></polygon>
+                    </g>
+                    <g id="Group-156" transform="translate(163.000000, 119.000000)">
+                        <mask id="mask-100" fill="white">
+                            <use xlink:href="#path-99"></use>
+                        </mask>
+                        <g id="Clip-155"></g>
+                        <polygon id="Fill-154" fill="#BAA191" mask="url(#mask-100)" points="-4.144 10.868 15.157 10.868 15.157 -4.22 -4.144 -4.22"></polygon>
+                    </g>
+                    <g id="Group-159" transform="translate(41.000000, 119.000000)">
+                        <mask id="mask-102" fill="white">
+                            <use xlink:href="#path-101"></use>
+                        </mask>
+                        <g id="Clip-158"></g>
+                        <polygon id="Fill-157" fill="#BFA695" mask="url(#mask-102)" points="-4.57 53.812 14.734 53.812 14.734 -4.219 -4.57 -4.219"></polygon>
+                    </g>
+                    <g id="Group-162" transform="translate(41.000000, 119.000000)">
+                        <mask id="mask-104" fill="white">
+                            <use xlink:href="#path-103"></use>
+                        </mask>
+                        <g id="Clip-161"></g>
+                        <polygon id="Fill-160" fill="#A89283" mask="url(#mask-104)" points="-4.57 10.868 14.734 10.868 14.734 -4.22 -4.57 -4.22"></polygon>
+                    </g>
+                    <g id="Group-165" transform="translate(71.000000, 104.000000)">
+                        <mask id="mask-106" fill="white">
+                            <use xlink:href="#path-105"></use>
+                        </mask>
+                        <g id="Clip-164"></g>
+                        <polygon id="Fill-163" fill="#9397AB" mask="url(#mask-106)" points="-4.82 8.935 59.44 8.935 59.44 -4.679 -4.82 -4.679"></polygon>
+                    </g>
+                    <g id="Group-168" transform="translate(71.000000, 106.000000)">
+                        <mask id="mask-108" fill="white">
+                            <use xlink:href="#path-107"></use>
+                        </mask>
+                        <g id="Clip-167"></g>
+                        <polygon id="Fill-166" fill="#87899C" mask="url(#mask-108)" points="-4.819 6.935 59.438 6.935 59.438 -4.811 -4.819 -4.811"></polygon>
+                    </g>
+                    <g id="Group-171" transform="translate(50.000000, 66.000000)">
+                        <mask id="mask-110" fill="white">
+                            <use xlink:href="#path-109"></use>
+                        </mask>
+                        <g id="Clip-170"></g>
+                        <polygon id="Fill-169" fill="#CED6ED" mask="url(#mask-110)" points="-4.335 43.808 65.674 43.808 65.674 -4.793 -4.335 -4.793"></polygon>
+                    </g>
+                    <g id="Group-174" transform="translate(57.000000, 66.000000)">
+                        <mask id="mask-112" fill="white">
+                            <use xlink:href="#path-111"></use>
+                        </mask>
+                        <g id="Clip-173"></g>
+                        <polygon id="Fill-172" fill="#DEE6FF" mask="url(#mask-112)" points="-4.346 9.196 17.591 9.196 17.591 -4.791 -4.346 -4.791"></polygon>
+                    </g>
+                    <g id="Group-177" transform="translate(50.000000, 67.000000)">
+                        <mask id="mask-114" fill="white">
+                            <use xlink:href="#path-113"></use>
+                        </mask>
+                        <g id="Clip-176"></g>
+                        <polygon id="Fill-175" fill="#B8BED1" mask="url(#mask-114)" points="-4.167 42.469 64.743 42.469 64.743 -4.741 -4.167 -4.741"></polygon>
+                    </g>
+                    <g id="Group-180" transform="translate(57.000000, 104.000000)">
+                        <mask id="mask-116" fill="white">
+                            <use xlink:href="#path-115"></use>
+                        </mask>
+                        <g id="Clip-179"></g>
+                        <polygon id="Fill-178" fill="#9FA3B8" mask="url(#mask-116)" points="-4.656 8.935 57.744 8.935 57.744 -4.679 -4.656 -4.679"></polygon>
+                    </g>
+                    <g id="Group-183" transform="translate(57.000000, 106.000000)">
+                        <mask id="mask-118" fill="white">
+                            <use xlink:href="#path-117"></use>
+                        </mask>
+                        <g id="Clip-182"></g>
+                        <polygon id="Fill-181" fill="#9497AB" mask="url(#mask-118)" points="-4.655 6.935 57.742 6.935 57.742 -4.811 -4.655 -4.811"></polygon>
+                    </g>
+                    <g id="Group-186" transform="translate(50.000000, 67.000000)">
+                        <mask id="mask-120" fill="white">
+                            <use xlink:href="#path-119"></use>
+                        </mask>
+                        <g id="Clip-185"></g>
+                        <polygon id="Fill-184" fill="#BDC4D9" mask="url(#mask-120)" points="-4.165 39.546 40.249 39.546 40.249 -4.741 -4.165 -4.741"></polygon>
+                    </g>
+                    <g id="Group-189" transform="translate(74.000000, 81.000000)">
+                        <mask id="mask-122" fill="white">
+                            <use xlink:href="#path-121"></use>
+                        </mask>
+                        <g id="Clip-188"></g>
+                        <polygon id="Fill-187" fill="#DEE6FF" mask="url(#mask-122)" points="-4.379 12.302 13.234 12.302 13.234 -4.867 -4.379 -4.867"></polygon>
+                    </g>
+                    <g id="Group-192" transform="translate(31.000000, 137.000000)">
+                        <mask id="mask-124" fill="white">
+                            <use xlink:href="#path-123"></use>
+                        </mask>
+                        <g id="Clip-191"></g>
+                        <polygon id="Fill-190" fill="#F8EBEC" mask="url(#mask-124)" points="-4.817 30.236 33.612 30.236 33.612 -4.789 -4.817 -4.789"></polygon>
+                    </g>
+                    <g id="Group-195" transform="translate(59.000000, 137.000000)">
+                        <mask id="mask-126" fill="white">
+                            <use xlink:href="#path-125"></use>
+                        </mask>
+                        <g id="Clip-194"></g>
+                        <polygon id="Fill-193" fill="#A4A2BA" mask="url(#mask-126)" points="-4.388 30.236 18.575 30.236 18.575 -4.789 -4.388 -4.789"></polygon>
+                    </g>
+                    <g id="Group-198" transform="translate(33.000000, 133.000000)">
+                        <mask id="mask-128" fill="white">
+                            <use xlink:href="#path-127"></use>
+                        </mask>
+                        <g id="Clip-197"></g>
+                        <polygon id="Fill-196" fill="#F8EBEC" mask="url(#mask-128)" points="-4.954 9.207 33.472 9.207 33.472 -4.961 -4.954 -4.961"></polygon>
+                    </g>
+                    <g id="Group-201" transform="translate(61.000000, 133.000000)">
+                        <mask id="mask-130" fill="white">
+                            <use xlink:href="#path-129"></use>
+                        </mask>
+                        <g id="Clip-200"></g>
+                        <polygon id="Fill-199" fill="#A4A2BA" mask="url(#mask-130)" points="-4.529 9.207 18.434 9.207 18.434 -4.961 -4.529 -4.961"></polygon>
+                    </g>
+                    <g id="Group-204" transform="translate(32.000000, 125.000000)">
+                        <mask id="mask-132" fill="white">
+                            <use xlink:href="#path-131"></use>
+                        </mask>
+                        <g id="Clip-203"></g>
+                        <polygon id="Fill-202" fill="#F8EBEC" mask="url(#mask-132)" points="-4.889 13.039 33.54 13.039 33.54 -4.145 -4.889 -4.145"></polygon>
+                    </g>
+                    <g id="Group-207" transform="translate(60.000000, 125.000000)">
+                        <mask id="mask-134" fill="white">
+                            <use xlink:href="#path-133"></use>
+                        </mask>
+                        <g id="Clip-206"></g>
+                        <polygon id="Fill-205" fill="#A4A2BA" mask="url(#mask-134)" points="-4.46 13.039 18.504 13.039 18.504 -4.145 -4.46 -4.145"></polygon>
+                    </g>
+                    <g id="Group-210" transform="translate(50.000000, 137.000000)">
+                        <mask id="mask-136" fill="white">
+                            <use xlink:href="#path-135"></use>
+                        </mask>
+                        <g id="Clip-209"></g>
+                        <polygon id="Fill-208" fill="#A4A2BA" mask="url(#mask-136)" points="-4.514 6.48 14.612 6.48 14.612 -4.792 -4.514 -4.792"></polygon>
+                    </g>
+                    <g id="Group-213" transform="translate(32.000000, 133.000000)">
+                        <mask id="mask-138" fill="white">
+                            <use xlink:href="#path-137"></use>
+                        </mask>
+                        <g id="Clip-212"></g>
+                        <polygon id="Fill-211" fill="#F8EBEC" mask="url(#mask-138)" points="-4.887 5.039 33.542 5.039 33.542 -4.961 -4.887 -4.961"></polygon>
+                    </g>
+                    <g id="Group-216" transform="translate(40.000000, 133.000000)">
+                        <mask id="mask-140" fill="white">
+                            <use xlink:href="#path-139"></use>
+                        </mask>
+                        <g id="Clip-215"></g>
+                        <polygon id="Fill-214" fill="#FFFFFF" mask="url(#mask-140)" points="-4.709 6.921 15.52 6.921 15.52 -4.961 -4.709 -4.961"></polygon>
+                    </g>
+                    <g id="Group-219" transform="translate(28.000000, 141.000000)">
+                        <mask id="mask-142" fill="white">
+                            <use xlink:href="#path-141"></use>
+                        </mask>
+                        <g id="Clip-218"></g>
+                        <polygon id="Fill-217" fill="#B39A8B" mask="url(#mask-142)" points="-4.995 31.815 39.266 31.815 39.266 -4.369 -4.995 -4.369"></polygon>
+                    </g>
+                    <g id="Group-222" transform="translate(61.000000, 141.000000)">
+                        <mask id="mask-144" fill="white">
+                            <use xlink:href="#path-143"></use>
+                        </mask>
+                        <g id="Clip-221"></g>
+                        <polygon id="Fill-220" fill="#A68F81" mask="url(#mask-144)" points="-4.353 31.815 18.902 31.815 18.902 -4.369 -4.353 -4.369"></polygon>
+                    </g>
+                    <g id="Group-225" transform="translate(38.000000, 145.000000)">
+                        <mask id="mask-146" fill="white">
+                            <use xlink:href="#path-145"></use>
+                        </mask>
+                        <g id="Clip-224"></g>
+                        <polygon id="Fill-223" fill="#A4A2BA" mask="url(#mask-146)" points="-4.155 8.96 17.499 8.96 17.499 -4.69 -4.155 -4.69"></polygon>
+                    </g>
+                    <g id="Group-228" transform="translate(41.000000, 145.000000)">
+                        <mask id="mask-148" fill="white">
+                            <use xlink:href="#path-147"></use>
+                        </mask>
+                        <g id="Clip-227"></g>
+                        <polygon id="Fill-226" fill="#F8EBEC" mask="url(#mask-148)" points="-4.054 8.959 14.5 8.959 14.5 -4.69 -4.054 -4.69"></polygon>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-233" transform="translate(222.000000, 250.000000)">
+                <mask id="mask-150" fill="white">
+                    <use xlink:href="#path-149"></use>
+                </mask>
+                <g id="Clip-232"></g>
+                <polygon id="Fill-231" fill="#FFFFFF" opacity="0.25" mask="url(#mask-150)" points="1.2311 -8.5095 25.3371 1.2305 15.5971 25.3375 -8.5089 15.5975"></polygon>
+            </g>
+            <g id="Group-236" transform="translate(185.000000, 33.000000)">
+                <mask id="mask-152" fill="white">
+                    <use xlink:href="#path-151"></use>
+                </mask>
+                <g id="Clip-235"></g>
+                <polygon id="Fill-234" fill="#FFFFFF" opacity="0.25" mask="url(#mask-152)" points="-7.1322 -2.6169 18.4728 -7.1319 22.9878 18.4731 -2.6162 22.9881"></polygon>
+            </g>
+            <g id="Group-239" transform="translate(49.000000, 354.000000)">
+                <mask id="mask-154" fill="white">
+                    <use xlink:href="#path-153"></use>
+                </mask>
+                <g id="Clip-238"></g>
+                <polygon id="Fill-237" fill="#FFFFFF" opacity="0.25" mask="url(#mask-154)" points="-6.4955 -3.7781 19.3625 -6.4951 22.0805 19.3629 -3.7775 22.0799"></polygon>
+            </g>
+            <g id="Group-244" transform="translate(26.000000, 40.000000)" fill="#FFFFFF">
+                <path d="M108.5914,13.9202 L108.5914,18.0002 L96.4474,18.0002 L96.4474,0.9602 L108.3754,0.9602 L108.3754,5.0402 L101.1274,5.0402 L101.1274,7.4402 L107.3194,7.4402 L107.3194,11.2322 L101.1274,11.2322 L101.1274,13.9202 L108.5914,13.9202 Z M94.6474,5.0402 L89.7514,5.0402 L89.7514,18.0002 L85.0714,18.0002 L85.0714,5.0402 L80.1524,5.0402 L80.1524,0.9602 L94.6474,0.9602 L94.6474,5.0402 Z M79.1924,13.9202 L79.1924,18.0002 L67.0484,18.0002 L67.0484,0.9602 L78.9754,0.9602 L78.9754,5.0402 L71.7274,5.0402 L71.7274,7.4402 L77.9204,7.4402 L77.9204,11.2322 L71.7274,11.2322 L71.7274,13.9202 L79.1924,13.9202 Z M59.0074,11.5442 L57.4954,6.2642 L55.9114,11.5442 L59.0074,11.5442 Z M55.3594,0.9602 L59.6314,0.9602 L65.5354,18.0002 L60.7834,18.0002 L59.7514,14.6642 L55.2154,14.6642 L54.2074,18.0002 L49.4314,18.0002 L55.3594,0.9602 Z M49.2394,5.0402 L44.3434,5.0402 L44.3434,18.0002 L39.6634,18.0002 L39.6634,5.0402 L34.7434,5.0402 L34.7434,0.9602 L49.2394,0.9602 L49.2394,5.0402 Z M22.2874,10.7042 L29.5354,0.9602 L32.9444,0.9602 L32.9444,18.0002 L28.2634,18.0002 L28.2634,8.5442 L21.0884,18.0002 L17.6084,18.0002 L17.6084,0.9602 L22.2874,0.9602 L22.2874,10.7042 Z M9.9274,0.9602 L14.4874,0.9602 L14.4874,18.0002 L9.9274,18.0002 L9.9274,12.0002 C9.4794,12.2082 8.9954,12.3642 8.4764,12.4682 C7.9554,12.5722 7.2714,12.6242 6.4244,12.6242 C5.4164,12.6242 4.5644,12.4762 3.8674,12.1802 C3.1724,11.8842 2.6084,11.4722 2.1754,10.9442 C1.7434,10.4162 1.4314,9.7962 1.2394,9.0842 C1.0484,8.3722 0.9514,7.6002 0.9514,6.7682 L0.9514,0.9602 L5.5114,0.9602 L5.5114,5.2322 C5.5114,6.2242 5.7074,6.9882 6.0994,7.5242 C6.4914,8.0602 7.1684,8.3282 8.1284,8.3282 C8.8314,8.3282 9.4314,8.2162 9.9274,7.9922 L9.9274,0.9602 Z" id="Fill-240"></path>
+                <path d="M180.8356,51.0901 L180.8356,55.0001 L169.1966,55.0001 L169.1966,38.6701 L180.6286,38.6701 L180.6286,42.5801 L173.6826,42.5801 L173.6826,44.8801 L179.6156,44.8801 L179.6156,48.5141 L173.6826,48.5141 L173.6826,51.0901 L180.8356,51.0901 Z M161.7226,55.0001 L166.2066,55.0001 L166.2066,38.6701 L161.7226,38.6701 L161.7226,55.0001 Z M151.0266,51.2281 L153.2806,51.2281 C153.8636,51.2281 154.3046,51.0631 154.6036,50.7341 C154.9026,50.4041 155.0526,49.9551 155.0526,49.3881 C155.0526,48.8971 154.9026,48.4721 154.6036,48.1111 C154.3046,47.7511 153.8636,47.5711 153.2806,47.5711 L151.0266,47.5711 L151.0266,51.2281 Z M146.5416,38.6701 L151.0266,38.6701 L151.0266,44.0751 L153.6946,44.0751 C154.6146,44.0751 155.4396,44.1981 156.1676,44.4431 C156.8966,44.6881 157.5166,45.0451 158.0306,45.5121 C158.5446,45.9801 158.9396,46.5441 159.2156,47.2031 C159.4906,47.8621 159.6296,48.6061 159.6296,49.4341 C159.6296,51.1671 159.1226,52.5271 158.1106,53.5161 C157.0996,54.5061 155.7036,55.0001 153.9256,55.0001 L146.5416,55.0001 L146.5416,38.6701 Z M143.5526,38.6701 L143.5526,55.0001 L139.0666,55.0001 L139.0666,48.6061 L133.5936,48.6061 L133.5936,55.0001 L129.1076,55.0001 L129.1076,38.6701 L133.5936,38.6701 L133.5936,44.6961 L139.0666,44.6961 L139.0666,38.6701 L143.5526,38.6701 Z M118.5746,51.2281 L120.8276,51.2281 C121.4106,51.2281 121.8526,51.0631 122.1506,50.7341 C122.4496,50.4041 122.5996,49.9551 122.5996,49.3881 C122.5996,48.8971 122.4496,48.4721 122.1506,48.1111 C121.8526,47.7511 121.4106,47.5711 120.8276,47.5711 L118.5746,47.5711 L118.5746,51.2281 Z M114.0886,38.6701 L118.5746,38.6701 L118.5746,44.0751 L121.2416,44.0751 C122.1616,44.0751 122.9856,44.1981 123.7146,44.4431 C124.4426,44.6881 125.0646,45.0451 125.5776,45.5121 C126.0916,45.9801 126.4856,46.5441 126.7626,47.2031 C127.0376,47.8621 127.1766,48.6061 127.1766,49.4341 C127.1766,51.1671 126.6706,52.5271 125.6576,53.5161 C124.6466,54.5061 123.2506,55.0001 121.4726,55.0001 L114.0886,55.0001 L114.0886,38.6701 Z M103.5316,44.7881 C103.3326,46.8581 103.0796,48.5601 102.7726,49.8941 C102.4656,51.2281 102.0336,52.2861 101.4736,53.0681 C100.9136,53.8501 100.1896,54.3941 99.2996,54.7011 C98.4106,55.0071 97.2836,55.1611 95.9186,55.1611 L95.9186,51.2971 C96.5016,51.2361 96.9776,51.1051 97.3446,50.9061 C97.7126,50.7071 98.0116,50.3391 98.2416,49.8021 C98.4716,49.2651 98.6636,48.4951 98.8166,47.4901 C98.9706,46.4861 99.1236,45.1411 99.2766,43.4541 L99.7136,38.6701 L111.1226,38.6701 L111.1226,55.0001 L106.6366,55.0001 L106.6366,42.5801 L103.7386,42.5801 L103.5316,44.7881 Z M89.4096,48.8131 L87.9606,43.7531 L86.4426,48.8131 L89.4096,48.8131 Z M85.9136,38.6701 L90.0076,38.6701 L95.6656,55.0001 L91.1116,55.0001 L90.1226,51.8031 L85.7756,51.8031 L84.8096,55.0001 L80.2326,55.0001 L85.9136,38.6701 Z M71.8376,46.0761 L74.2066,46.0761 C74.4826,46.0761 74.7396,45.9491 74.9776,45.6961 C75.2146,45.4441 75.3346,44.9871 75.3346,44.3281 C75.3346,43.6531 75.1956,43.1941 74.9196,42.9481 C74.6436,42.7031 74.3676,42.5801 74.0916,42.5801 L71.8376,42.5801 L71.8376,46.0761 Z M67.3526,55.0001 L67.3526,38.6701 L74.3906,38.6701 C75.1886,38.6701 75.9236,38.8351 76.5986,39.1641 C77.2736,39.4941 77.8526,39.9231 78.3356,40.4521 C78.8186,40.9811 79.1976,41.5871 79.4736,42.2691 C79.7506,42.9521 79.8876,43.6381 79.8876,44.3281 C79.8876,45.0491 79.7576,45.7501 79.4966,46.4321 C79.2356,47.1151 78.8716,47.7201 78.4046,48.2491 C77.9366,48.7781 77.3696,49.2001 76.7026,49.5141 C76.0356,49.8291 75.3026,49.9861 74.5056,49.9861 L71.8376,49.9861 L71.8376,55.0001 L67.3526,55.0001 Z M65.1686,51.0901 L65.1686,55.0001 L53.5296,55.0001 L53.5296,38.6701 L64.9606,38.6701 L64.9606,42.5801 L58.0146,42.5801 L58.0146,44.8801 L63.9486,44.8801 L63.9486,48.5141 L58.0146,48.5141 L58.0146,51.0901 L65.1686,51.0901 Z M44.7906,51.0901 L44.7906,42.5801 L41.8926,42.5801 L41.6856,44.7881 C41.5626,46.1681 41.3896,47.3721 41.1676,48.3991 C40.9446,49.4261 40.6806,50.3231 40.3746,51.0901 L44.7906,51.0901 Z M33.8186,51.0901 L34.8316,51.0901 C35.2136,51.0901 35.5406,50.9561 35.8086,50.6871 C36.0766,50.4191 36.3106,49.9861 36.5096,49.3881 C36.7096,48.7901 36.8776,48.0041 37.0156,47.0301 C37.1536,46.0571 37.2926,44.8651 37.4296,43.4541 L37.8666,38.6701 L49.2746,38.6701 L49.2746,51.0901 L51.5746,51.0901 L51.5746,58.8181 L47.2056,58.8181 L47.2056,55.0001 L38.1896,55.0001 L38.1896,58.8181 L33.8186,58.8181 L33.8186,51.0901 Z M32.7606,51.0901 L32.7606,55.0001 L21.1236,55.0001 L21.1236,38.6701 L32.5536,38.6701 L32.5536,42.5801 L25.6076,42.5801 L25.6076,44.8801 L31.5426,44.8801 L31.5426,48.5141 L25.6076,48.5141 L25.6076,51.0901 L32.7606,51.0901 Z M12.2216,49.6641 C13.2496,49.4491 13.9616,49.0741 14.3606,48.5371 C14.7596,48.0001 14.9596,47.3411 14.9596,46.5591 C14.9596,45.7311 14.7556,45.0641 14.3496,44.5581 C13.9426,44.0521 13.2336,43.6921 12.2216,43.4771 L12.2216,49.6641 Z M7.9896,43.4771 C6.9786,43.6921 6.2646,44.0521 5.8516,44.5581 C5.4376,45.0641 5.2306,45.7311 5.2306,46.5591 C5.2306,47.3411 5.4336,48.0001 5.8396,48.5371 C6.2456,49.0741 6.9626,49.4491 7.9896,49.6641 L7.9896,43.4771 Z M7.9896,53.8041 C6.7626,53.6511 5.7096,53.3671 4.8276,52.9531 C3.9456,52.5391 3.2176,52.0181 2.6426,51.3891 C2.0676,50.7601 1.6416,50.0401 1.3656,49.2271 C1.0896,48.4141 0.9516,47.5331 0.9516,46.5821 C0.9516,45.6771 1.0826,44.8221 1.3426,44.0171 C1.6036,43.2131 2.0136,42.4921 2.5736,41.8551 C3.1326,41.2191 3.8576,40.6821 4.7476,40.2451 C5.6356,39.8081 6.7166,39.5061 7.9896,39.3371 L7.9896,37.0601 L12.2216,37.0601 L12.2216,39.3371 C13.4796,39.5061 14.5526,39.8081 15.4416,40.2451 C16.3316,40.6821 17.0596,41.2191 17.6276,41.8551 C18.1936,42.4921 18.6076,43.2131 18.8686,44.0171 C19.1296,44.8221 19.2596,45.6771 19.2596,46.5821 C19.2596,47.5331 19.1226,48.4101 18.8456,49.2151 C18.5696,50.0201 18.1446,50.7341 17.5696,51.3541 C16.9946,51.9751 16.2616,52.4971 15.3736,52.9181 C14.4836,53.3401 13.4336,53.6281 12.2216,53.7811 L12.2216,55.6901 L7.9896,55.6901 L7.9896,53.8041 Z" id="Fill-242"></path>
+            </g>
+            <text id="-" font-family="Raleway-Black, Raleway" font-size="23" font-weight="700"></text>
+            <g id="Group-250" transform="translate(26.000000, 78.000000)" fill="#FFFFFF">
+                <path d="M228.8151,10.0081 L235.7611,0.6701 L239.0271,0.6701 L239.0271,17.0001 L234.5421,17.0001 L234.5421,7.9381 L227.6651,17.0001 L224.3301,17.0001 L224.3301,0.6701 L228.8151,0.6701 L228.8151,10.0081 Z M216.8551,17.0001 L216.8551,8.3981 L214.1181,14.4471 L211.7261,14.4471 L208.9891,8.3981 L208.9891,17.0001 L204.5041,17.0001 L204.5041,0.6701 L209.4031,0.6701 L212.9221,8.3521 L216.4641,0.6701 L221.3401,0.6701 L221.3401,17.0001 L216.8551,17.0001 Z M187.6231,8.6971 C187.6231,7.7001 187.8101,6.7191 188.1861,5.7531 C188.5611,4.7871 189.1091,3.9211 189.8311,3.1541 C190.5501,2.3871 191.4241,1.7661 192.4521,1.2911 C193.4791,0.8161 194.6521,0.5781 195.9711,0.5781 C197.5501,0.5781 198.9191,0.9041 200.0771,1.5551 C201.2341,2.2071 202.0961,3.0701 202.6651,4.1431 L199.2371,6.5811 C199.0841,6.1821 198.8801,5.8531 198.6281,5.5921 C198.3751,5.3311 198.0941,5.1241 197.7881,4.9711 C197.4811,4.8181 197.1641,4.7101 196.8341,4.6491 C196.5031,4.5881 196.1861,4.5571 195.8791,4.5571 C195.2351,4.5571 194.6791,4.6831 194.2111,4.9361 C193.7441,5.1891 193.3611,5.5191 193.0621,5.9251 C192.7621,6.3321 192.5411,6.7921 192.3951,7.3051 C192.2491,7.8191 192.1761,8.3291 192.1761,8.8351 C192.1761,9.4031 192.2601,9.9471 192.4291,10.4681 C192.5971,10.9891 192.8431,11.4491 193.1661,11.8481 C193.4871,12.2471 193.8811,12.5651 194.3491,12.8021 C194.8171,13.0401 195.3421,13.1591 195.9251,13.1591 C196.2321,13.1591 196.5461,13.1241 196.8681,13.0551 C197.1901,12.9871 197.5011,12.8711 197.7991,12.7101 C198.0981,12.5501 198.3671,12.3421 198.6051,12.0901 C198.8421,11.8361 199.0301,11.5261 199.1691,11.1581 L202.8251,13.3431 C202.5801,13.9411 202.2081,14.4781 201.7101,14.9531 C201.2111,15.4281 200.6441,15.8271 200.0071,16.1491 C199.3721,16.4711 198.6891,16.7161 197.9611,16.8851 C197.2321,17.0531 196.5231,17.1381 195.8341,17.1381 C194.6221,17.1381 193.5141,16.8961 192.5091,16.4131 C191.5051,15.9301 190.6391,15.2901 189.9111,14.4931 C189.1821,13.6961 188.6191,12.7911 188.2201,11.7791 C187.8211,10.7671 187.6231,9.7401 187.6231,8.6971 Z" id="Fill-245"></path>
+                <path d="M242.776,16.999 L246.34,16.999 L246.34,13.227 L242.776,13.227 L242.776,16.999 Z M242.707,11.043 C242.707,10.72 242.722,10.403 242.753,10.089 C242.784,9.774 242.86,9.475 242.983,9.191 C243.105,8.908 243.29,8.635 243.535,8.375 C243.78,8.114 244.11,7.877 244.524,7.662 C244.692,7.57 244.934,7.447 245.249,7.294 C245.562,7.14 245.877,6.957 246.191,6.742 C246.505,6.527 246.778,6.286 247.007,6.017 C247.238,5.749 247.353,5.454 247.353,5.132 C247.353,4.779 247.214,4.499 246.939,4.293 C246.663,4.086 246.34,3.982 245.973,3.982 C245.697,3.982 245.459,4.036 245.259,4.142 C245.06,4.25 244.888,4.381 244.743,4.534 C244.596,4.687 244.474,4.844 244.375,5.006 C244.274,5.166 244.179,5.301 244.087,5.408 L241.304,3.429 C241.703,2.495 242.331,1.766 243.19,1.245 C244.048,0.723 245.03,0.463 246.133,0.463 C246.716,0.463 247.307,0.548 247.905,0.716 C248.503,0.885 249.044,1.153 249.526,1.521 C250.009,1.888 250.4,2.372 250.7,2.969 C250.999,3.568 251.148,4.297 251.148,5.155 C251.148,5.89 251.013,6.561 250.746,7.168 C250.477,7.773 249.998,8.305 249.308,8.765 C248.97,8.996 248.626,9.195 248.273,9.364 C247.92,9.533 247.594,9.701 247.296,9.87 C246.997,10.039 246.751,10.215 246.559,10.399 C246.368,10.583 246.272,10.798 246.272,11.043 L242.707,11.043 Z" id="Fill-247"></path>
+                <path d="M5.506,51.8582 C5.506,52.4102 5.583,52.9432 5.736,53.4562 C5.889,53.9702 6.119,54.4262 6.426,54.8252 C6.733,55.2242 7.12,55.5462 7.588,55.7912 C8.055,56.0362 8.611,56.1592 9.255,56.1592 C9.899,56.1592 10.459,56.0322 10.934,55.7792 C11.409,55.5262 11.797,55.1972 12.095,54.7902 C12.395,54.3842 12.616,53.9202 12.762,53.3992 C12.908,52.8782 12.981,52.3492 12.981,51.8122 C12.981,51.2602 12.904,50.7272 12.751,50.2132 C12.597,49.7002 12.363,49.2472 12.049,48.8562 C11.735,48.4652 11.344,48.1512 10.877,47.9132 C10.408,47.6762 9.86,47.5572 9.232,47.5572 C8.588,47.5572 8.032,47.6802 7.565,47.9252 C7.096,48.1702 6.71,48.4962 6.403,48.9022 C6.096,49.3092 5.87,49.7692 5.724,50.2822 C5.579,50.7962 5.506,51.3212 5.506,51.8582 M9.209,60.1382 C7.967,60.1382 6.84,59.9002 5.828,59.4252 C4.816,58.9502 3.949,58.3252 3.229,57.5502 C2.508,56.7762 1.948,55.8912 1.55,54.8942 C1.151,53.8972 0.952,52.8702 0.952,51.8122 C0.952,50.7392 1.159,49.7042 1.573,48.7072 C1.987,47.7102 2.566,46.8322 3.31,46.0732 C4.053,45.3142 4.935,44.7092 5.954,44.2562 C6.974,43.8042 8.089,43.5782 9.301,43.5782 C10.543,43.5782 11.67,43.8162 12.682,44.2912 C13.694,44.7662 14.56,45.3952 15.281,46.1772 C16.002,46.9592 16.557,47.8482 16.948,48.8452 C17.339,49.8422 17.535,50.8612 17.535,51.9042 C17.535,52.9772 17.328,54.0082 16.914,54.9972 C16.5,55.9862 15.925,56.8602 15.189,57.6192 C14.453,58.3792 13.575,58.9882 12.555,59.4482 C11.536,59.9082 10.42,60.1382 9.209,60.1382" id="Fill-249"></path>
+            </g>
+            <text id="-" font-family="Raleway-Black, Raleway" font-size="23" font-weight="700"></text>
+            <path d="M83.0514,129.697 C83.0514,128.7 83.2384,127.719 83.6144,126.753 C83.9904,125.787 84.5384,124.921 85.2594,124.154 C85.9794,123.387 86.8534,122.766 87.8814,122.291 C88.9084,121.816 90.0814,121.578 91.4004,121.578 C92.9794,121.578 94.3474,121.904 95.5054,122.555 C96.6634,123.207 97.5254,124.07 98.0934,125.143 L94.6664,127.581 C94.5124,127.182 94.3094,126.853 94.0564,126.592 C93.8034,126.331 93.5234,126.124 93.2174,125.971 C92.9104,125.818 92.5924,125.71 92.2624,125.649 C91.9324,125.588 91.6144,125.557 91.3084,125.557 C90.6644,125.557 90.1084,125.683 89.6404,125.936 C89.1734,126.189 88.7894,126.519 88.4904,126.926 C88.1914,127.332 87.9694,127.792 87.8234,128.305 C87.6774,128.819 87.6054,129.329 87.6054,129.835 C87.6054,130.403 87.6894,130.947 87.8584,131.468 C88.0264,131.989 88.2724,132.449 88.5944,132.848 C88.9164,133.247 89.3104,133.565 89.7784,133.802 C90.2464,134.04 90.7714,134.159 91.3544,134.159 C91.6604,134.159 91.9754,134.124 92.2974,134.055 C92.6194,133.987 92.9294,133.871 93.2284,133.71 C93.5274,133.55 93.7954,133.343 94.0334,133.09 C94.2714,132.836 94.4594,132.526 94.5974,132.158 L98.2544,134.343 C98.0094,134.941 97.6364,135.478 97.1384,135.953 C96.6404,136.428 96.0724,136.827 95.4364,137.149 C94.8004,137.471 94.1174,137.717 93.3894,137.885 C92.6614,138.053 91.9524,138.138 91.2624,138.138 C90.0514,138.138 88.9434,137.896 87.9384,137.413 C86.9344,136.93 86.0684,136.29 85.3394,135.493 C84.6114,134.696 84.0474,133.791 83.6494,132.779 C83.2504,131.767 83.0514,130.74 83.0514,129.697 Z M76.3354,131.813 L74.8854,126.753 L73.3674,131.813 L76.3354,131.813 Z M72.8394,121.67 L76.9334,121.67 L82.5914,138 L78.0364,138 L77.0484,134.803 L72.7004,134.803 L71.7354,138 L67.1574,138 L72.8394,121.67 Z M65.7094,121.67 L65.7094,138 L61.2244,138 L61.2244,131.606 L55.7504,131.606 L55.7504,138 L51.2654,138 L51.2654,121.67 L55.7504,121.67 L55.7504,127.696 L61.2244,127.696 L61.2244,121.67 L65.7094,121.67 Z" id="Fill-251" fill="#FFFFFF"></path>
+            <text id="-" font-family="Raleway-Black, Raleway" font-size="23" font-weight="700"></text>
+            <path d="M147.152,137.9998 L147.152,129.3978 L144.415,135.4468 L142.023,135.4468 L139.286,129.3978 L139.286,137.9998 L134.801,137.9998 L134.801,121.6698 L139.7,121.6698 L143.219,129.3518 L146.761,121.6698 L151.637,121.6698 L151.637,137.9998 L147.152,137.9998 Z M127.096,131.8128 L125.647,126.7528 L124.129,131.8128 L127.096,131.8128 Z M123.6,121.6698 L127.694,121.6698 L133.352,137.9998 L128.798,137.9998 L127.809,134.8028 L123.462,134.8028 L122.496,137.9998 L117.919,137.9998 L123.6,121.6698 Z M117.735,125.5798 L113.043,125.5798 L113.043,137.9998 L108.558,137.9998 L108.558,125.5798 L103.843,125.5798 L103.843,121.6698 L117.735,121.6698 L117.735,125.5798 Z" id="Fill-253" fill="#FFFFFF"></path>
+            <text id="-" font-family="Raleway-Black, Raleway" font-size="23" font-weight="700"></text>
+            <g id="Group-259" transform="translate(26.000000, 121.000000)" fill="#FFFFFF">
+                <path d="M201.6979,13.0901 L201.6979,17.0001 L190.0599,17.0001 L190.0599,0.6701 L201.4909,0.6701 L201.4909,4.5801 L194.5459,4.5801 L194.5459,6.8801 L200.4789,6.8801 L200.4789,10.5141 L194.5459,10.5141 L194.5459,13.0901 L201.6979,13.0901 Z M170.1649,8.5591 L164.2549,0.6701 L169.3139,0.6701 L173.8219,6.9031 L174.1679,6.9031 L174.1679,0.6701 L178.6519,0.6701 L178.6519,6.9031 L178.9969,6.9031 L183.5059,0.6701 L188.5649,0.6701 L182.6539,8.5591 L189.0939,17.0001 L184.1029,17.0001 L179.3879,10.9741 L178.6519,10.9741 L178.6519,17.0001 L174.1679,17.0001 L174.1679,10.9741 L173.4309,10.9741 L168.7169,17.0001 L163.7249,17.0001 L170.1649,8.5591 Z M151.7189,8.8581 C151.7189,9.4101 151.7959,9.9431 151.9489,10.4561 C152.1019,10.9701 152.3329,11.4261 152.6389,11.8251 C152.9459,12.2241 153.3329,12.5461 153.8009,12.7911 C154.2679,13.0361 154.8239,13.1591 155.4689,13.1591 C156.1119,13.1591 156.6719,13.0321 157.1469,12.7791 C157.6229,12.5271 158.0099,12.1971 158.3079,11.7901 C158.6079,11.3841 158.8299,10.9201 158.9749,10.3991 C159.1209,9.8781 159.1939,9.3491 159.1939,8.8121 C159.1939,8.2601 159.1169,7.7271 158.9649,7.2141 C158.8109,6.7001 158.5769,6.2471 158.2619,5.8561 C157.9479,5.4651 157.5569,5.1511 157.0899,4.9131 C156.6219,4.6761 156.0739,4.5571 155.4449,4.5571 C154.8019,4.5571 154.2449,4.6801 153.7779,4.9251 C153.3099,5.1701 152.9229,5.4961 152.6159,5.9031 C152.3089,6.3091 152.0839,6.7691 151.9379,7.2821 C151.7919,7.7961 151.7189,8.3211 151.7189,8.8581 Z M155.4229,17.1381 C154.1799,17.1381 153.0529,16.9001 152.0419,16.4251 C151.0289,15.9501 150.1629,15.3251 149.4419,14.5501 C148.7209,13.7761 148.1619,12.8911 147.7629,11.8941 C147.3639,10.8971 147.1649,9.8701 147.1649,8.8121 C147.1649,7.7391 147.3719,6.7041 147.7859,5.7071 C148.1999,4.7101 148.7789,3.8321 149.5229,3.0731 C150.2659,2.3141 151.1479,1.7091 152.1679,1.2571 C153.1869,0.8041 154.3019,0.5781 155.5139,0.5781 C156.7569,0.5781 157.8839,0.8161 158.8949,1.2911 C159.9069,1.7661 160.7729,2.3951 161.4939,3.1771 C162.2149,3.9591 162.7709,4.8481 163.1619,5.8451 C163.5519,6.8421 163.7479,7.8611 163.7479,8.9041 C163.7479,9.9771 163.5419,11.0081 163.1279,11.9971 C162.7139,12.9861 162.1379,13.8611 161.4019,14.6191 C160.6669,15.3791 159.7879,15.9881 158.7679,16.4481 C157.7489,16.9081 156.6339,17.1381 155.4229,17.1381 Z M146.4289,4.5801 L141.7369,4.5801 L141.7369,17.0001 L137.2529,17.0001 L137.2529,4.5801 L132.5379,4.5801 L132.5379,0.6701 L146.4289,0.6701 L146.4289,4.5801 Z" id="Fill-255"></path>
+                <path d="M68.8956,45.5042 C68.8956,46.0802 68.9756,46.6362 69.1356,47.1722 C69.2956,47.7082 69.5356,48.1842 69.8556,48.6002 C70.1756,49.0162 70.5796,49.3522 71.0676,49.6082 C71.5556,49.8642 72.1356,49.9922 72.8076,49.9922 C73.4796,49.9922 74.0636,49.8602 74.5596,49.5962 C75.0556,49.3322 75.4596,48.9882 75.7716,48.5642 C76.0836,48.1402 76.3156,47.6562 76.4676,47.1122 C76.6196,46.5682 76.6956,46.0162 76.6956,45.4562 C76.6956,44.8802 76.6156,44.3242 76.4556,43.7882 C76.2956,43.2522 76.0516,42.7802 75.7236,42.3722 C75.3956,41.9642 74.9876,41.6362 74.4996,41.3882 C74.0116,41.1402 73.4396,41.0162 72.7836,41.0162 C72.1116,41.0162 71.5316,41.1442 71.0436,41.4002 C70.5556,41.6562 70.1516,41.9962 69.8316,42.4202 C69.5116,42.8442 69.2756,43.3242 69.1236,43.8602 C68.9716,44.3962 68.8956,44.9442 68.8956,45.5042 Z M72.7596,54.1442 C71.4636,54.1442 70.2876,53.8962 69.2316,53.4002 C68.1756,52.9042 67.2716,52.2522 66.5196,51.4442 C65.7676,50.6362 65.1836,49.7122 64.7676,48.6722 C64.3516,47.6322 64.1436,46.5602 64.1436,45.4562 C64.1436,44.3362 64.3596,43.2562 64.7916,42.2162 C65.2236,41.1762 65.8276,40.2602 66.6036,39.4682 C67.3796,38.6762 68.2996,38.0442 69.3636,37.5722 C70.4276,37.1002 71.5916,36.8642 72.8556,36.8642 C74.1516,36.8642 75.3276,37.1122 76.3836,37.6082 C77.4396,38.1042 78.3436,38.7602 79.0956,39.5762 C79.8476,40.3922 80.4276,41.3202 80.8356,42.3602 C81.2436,43.4002 81.4476,44.4642 81.4476,45.5522 C81.4476,46.6722 81.2316,47.7482 80.7996,48.7802 C80.3676,49.8122 79.7676,50.7242 78.9996,51.5162 C78.2316,52.3082 77.3156,52.9442 76.2516,53.4242 C75.1876,53.9042 74.0236,54.1442 72.7596,54.1442 Z M63.3756,41.0402 L58.4796,41.0402 L58.4796,54.0002 L53.7996,54.0002 L53.7996,41.0402 L48.8796,41.0402 L48.8796,36.9602 L63.3756,36.9602 L63.3756,41.0402 Z M32.5836,45.3362 C32.5836,44.2962 32.7796,43.2722 33.1716,42.2642 C33.5636,41.2562 34.1356,40.3522 34.8876,39.5522 C35.6396,38.7522 36.5516,38.1042 37.6246,37.6082 C38.6956,37.1122 39.9196,36.8642 41.2956,36.8642 C42.9436,36.8642 44.3716,37.2042 45.5806,37.8842 C46.7876,38.5642 47.6876,39.4642 48.2796,40.5842 L44.7046,43.1282 C44.5436,42.7122 44.3326,42.3682 44.0676,42.0962 C43.8036,41.8242 43.5116,41.6082 43.1916,41.4482 C42.8716,41.2882 42.5406,41.1762 42.1956,41.1122 C41.8516,41.0482 41.5206,41.0162 41.1996,41.0162 C40.5276,41.0162 39.9476,41.1482 39.4596,41.4122 C38.9716,41.6762 38.5716,42.0202 38.2596,42.4442 C37.9476,42.8682 37.7156,43.3482 37.5636,43.8842 C37.4116,44.4202 37.3356,44.9522 37.3356,45.4802 C37.3356,46.0722 37.4236,46.6402 37.6006,47.1842 C37.7756,47.7282 38.0316,48.2082 38.3686,48.6242 C38.7046,49.0402 39.1156,49.3722 39.6036,49.6202 C40.0916,49.8682 40.6396,49.9922 41.2486,49.9922 C41.5676,49.9922 41.8956,49.9562 42.2316,49.8842 C42.5676,49.8122 42.8926,49.6922 43.2046,49.5242 C43.5166,49.3562 43.7956,49.1402 44.0436,48.8762 C44.2916,48.6122 44.4876,48.2882 44.6316,47.9042 L48.4476,50.1842 C48.1916,50.8082 47.8036,51.3682 47.2836,51.8642 C46.7636,52.3602 46.1716,52.7762 45.5076,53.1122 C44.8436,53.4482 44.1316,53.7042 43.3726,53.8802 C42.6116,54.0562 41.8726,54.1442 41.1516,54.1442 C39.8876,54.1442 38.7316,53.8922 37.6846,53.3882 C36.6356,52.8842 35.7316,52.2162 34.9726,51.3842 C34.2116,50.5522 33.6246,49.6082 33.2076,48.5522 C32.7916,47.4962 32.5836,46.4242 32.5836,45.3362 Z M25.5756,47.5442 L24.0636,42.2642 L22.4796,47.5442 L25.5756,47.5442 Z M21.9276,36.9602 L26.1996,36.9602 L32.1036,54.0002 L27.3516,54.0002 L26.3196,50.6642 L21.7836,50.6642 L20.7756,54.0002 L15.9996,54.0002 L21.9276,36.9602 Z M9.9276,36.9602 L14.4876,36.9602 L14.4876,54.0002 L9.9276,54.0002 L9.9276,48.0002 C9.4796,48.2082 8.9956,48.3642 8.4766,48.4682 C7.9556,48.5722 7.2716,48.6242 6.4236,48.6242 C5.4166,48.6242 4.5636,48.4762 3.8676,48.1802 C3.1716,47.8842 2.6076,47.4722 2.1756,46.9442 C1.7436,46.4162 1.4316,45.7962 1.2396,45.0842 C1.0476,44.3722 0.9516,43.6002 0.9516,42.7682 L0.9516,36.9602 L5.5116,36.9602 L5.5116,41.2322 C5.5116,42.2242 5.7076,42.9882 6.0996,43.5242 C6.4916,44.0602 7.1676,44.3282 8.1276,44.3282 C8.8316,44.3282 9.4316,44.2162 9.9276,43.9922 L9.9276,36.9602 Z" id="Fill-257"></path>
+            </g>
+            <text id="-" font-family="Raleway-Black, Raleway" font-size="24" font-weight="700"></text>
+            <g id="Group-265" transform="translate(26.000000, 157.000000)" fill="#FFFFFF">
+                <path d="M200.6793,5.0398 L195.7833,5.0398 L195.7833,17.9998 L191.1043,17.9998 L191.1043,5.0398 L186.1843,5.0398 L186.1843,0.9598 L200.6793,0.9598 L200.6793,5.0398 Z M179.7033,4.9198 L177.2323,4.9198 C177.0393,4.9198 176.8433,4.9438 176.6443,4.9918 C176.4443,5.0398 176.2683,5.1238 176.1163,5.2438 C175.9633,5.3638 175.8353,5.5278 175.7323,5.7358 C175.6273,5.9438 175.5753,6.1998 175.5753,6.5038 C175.5753,6.8238 175.6233,7.0838 175.7203,7.2838 C175.8163,7.4838 175.9403,7.6438 176.0923,7.7638 C176.2433,7.8838 176.4193,7.9678 176.6193,8.0158 C176.8203,8.0638 177.0243,8.0878 177.2323,8.0878 L179.7033,8.0878 L179.7033,4.9198 Z M179.7033,17.9998 L179.7033,12.0478 L178.4553,12.0478 L174.7113,17.9998 L169.6963,17.9998 L173.7993,11.5198 C172.8713,11.0878 172.1443,10.4438 171.6163,9.5878 C171.0873,8.7318 170.8243,7.7038 170.8243,6.5038 C170.8243,5.6878 170.9683,4.9438 171.2553,4.2718 C171.5433,3.5998 171.9403,3.0158 172.4443,2.5198 C172.9483,2.0238 173.5513,1.6408 174.2553,1.3678 C174.9593,1.0958 175.7283,0.9598 176.5603,0.9598 L184.3843,0.9598 L184.3843,17.9998 L179.7033,17.9998 Z M160.6003,8.6878 L163.0723,8.6878 C163.3603,8.6878 163.6273,8.5558 163.8753,8.2918 C164.1233,8.0278 164.2473,7.5518 164.2473,6.8638 C164.2473,6.1598 164.1043,5.6798 163.8163,5.4238 C163.5283,5.1678 163.2403,5.0398 162.9513,5.0398 L160.6003,5.0398 L160.6003,8.6878 Z M155.9193,17.9998 L155.9193,0.9598 L163.2643,0.9598 C164.0953,0.9598 164.8643,1.1318 165.5683,1.4758 C166.2723,1.8198 166.8753,2.2678 167.3793,2.8198 C167.8843,3.3718 168.2803,4.0038 168.5683,4.7158 C168.8563,5.4278 168.9993,6.1438 168.9993,6.8638 C168.9993,7.6158 168.8643,8.3488 168.5923,9.0598 C168.3203,9.7718 167.9403,10.4038 167.4513,10.9558 C166.9633,11.5078 166.3713,11.9478 165.6763,12.2758 C164.9803,12.6038 164.2153,12.7678 163.3843,12.7678 L160.6003,12.7678 L160.6003,17.9998 L155.9193,17.9998 Z M141.2803,9.5038 C141.2803,10.0798 141.3603,10.6358 141.5203,11.1718 C141.6793,11.7078 141.9193,12.1838 142.2403,12.5998 C142.5603,13.0168 142.9633,13.3528 143.4513,13.6078 C143.9403,13.8638 144.5203,13.9918 145.1923,13.9918 C145.8643,13.9918 146.4483,13.8598 146.9443,13.5958 C147.4403,13.3318 147.8443,12.9878 148.1563,12.5638 C148.4683,12.1408 148.7003,11.6558 148.8523,11.1118 C149.0033,10.5678 149.0793,10.0168 149.0793,9.4558 C149.0793,8.8798 148.9993,8.3238 148.8393,7.7878 C148.6803,7.2518 148.4363,6.7798 148.1083,6.3718 C147.7803,5.9638 147.3713,5.6358 146.8843,5.3878 C146.3963,5.1398 145.8243,5.0158 145.1673,5.0158 C144.4953,5.0158 143.9153,5.1438 143.4283,5.3998 C142.9403,5.6558 142.5353,5.9968 142.2163,6.4198 C141.8963,6.8438 141.6593,7.3238 141.5083,7.8598 C141.3563,8.3958 141.2803,8.9438 141.2803,9.5038 Z M145.1443,18.1438 C143.8483,18.1438 142.6713,17.8958 141.6163,17.3998 C140.5603,16.9038 139.6563,16.2518 138.9043,15.4438 C138.1523,14.6358 137.5683,13.7118 137.1523,12.6718 C136.7363,11.6318 136.5283,10.5598 136.5283,9.4558 C136.5283,8.3358 136.7433,7.2558 137.1763,6.2158 C137.6083,5.1758 138.2113,4.2598 138.9883,3.4678 C139.7643,2.6758 140.6833,2.0438 141.7473,1.5718 C142.8123,1.1008 143.9763,0.8638 145.2403,0.8638 C146.5353,0.8638 147.7113,1.1118 148.7683,1.6078 C149.8243,2.1038 150.7283,2.7598 151.4803,3.5758 C152.2323,4.3918 152.8123,5.3198 153.2203,6.3598 C153.6273,7.3998 153.8313,8.4638 153.8313,9.5518 C153.8313,10.6718 153.6163,11.7478 153.1843,12.7798 C152.7513,13.8118 152.1523,14.7238 151.3843,15.5158 C150.6163,16.3078 149.7003,16.9438 148.6363,17.4238 C147.5723,17.9038 146.4083,18.1438 145.1443,18.1438 Z M130.6483,12.6718 C130.6483,12.2558 130.5353,11.9078 130.3123,11.6278 C130.0873,11.3488 129.7993,11.2078 129.4483,11.2078 L125.5833,11.2078 L125.5833,14.0638 L129.2803,14.0638 C129.6633,14.0638 129.9883,13.9438 130.2513,13.7038 C130.5163,13.4638 130.6483,13.1198 130.6483,12.6718 Z M125.5833,4.9438 L125.5833,7.5598 L128.7763,7.5598 C129.0963,7.5598 129.3883,7.4728 129.6523,7.2958 C129.9153,7.1198 130.0473,6.7678 130.0473,6.2398 C130.0473,5.7758 129.9363,5.4438 129.7113,5.2438 C129.4883,5.0438 129.2233,4.9438 128.9193,4.9438 L125.5833,4.9438 Z M135.4003,13.6318 C135.4003,14.3998 135.2403,15.0598 134.9193,15.6118 C134.5993,16.1638 134.1593,16.6158 133.6003,16.9678 C133.0393,17.3198 132.3883,17.5798 131.6443,17.7478 C130.9003,17.9158 130.1123,17.9998 129.2803,17.9998 L120.9043,17.9998 L120.9043,0.9598 L130.7913,0.9598 C131.3833,0.9598 131.9193,1.0878 132.4003,1.3438 C132.8793,1.5998 133.2873,1.9318 133.6233,2.3398 C133.9593,2.7478 134.2193,3.2118 134.4043,3.7318 C134.5873,4.2518 134.6803,4.7838 134.6803,5.3278 C134.6803,6.1278 134.4763,6.8918 134.0683,7.6198 C133.6593,8.3488 133.0473,8.8958 132.2323,9.2638 C133.2073,9.5518 133.9803,10.0518 134.5473,10.7638 C135.1163,11.4758 135.4003,12.4318 135.4003,13.6318 Z M106.2633,9.5038 C106.2633,10.0798 106.3443,10.6358 106.5043,11.1718 C106.6633,11.7078 106.9043,12.1838 107.2233,12.5998 C107.5443,13.0168 107.9483,13.3528 108.4363,13.6078 C108.9243,13.8638 109.5043,13.9918 110.1763,13.9918 C110.8473,13.9918 111.4313,13.8598 111.9283,13.5958 C112.4243,13.3318 112.8273,12.9878 113.1393,12.5638 C113.4513,12.1408 113.6833,11.6558 113.8363,11.1118 C113.9883,10.5678 114.0643,10.0168 114.0643,9.4558 C114.0643,8.8798 113.9833,8.3238 113.8243,7.7878 C113.6633,7.2518 113.4193,6.7798 113.0923,6.3718 C112.7633,5.9638 112.3563,5.6358 111.8673,5.3878 C111.3793,5.1398 110.8073,5.0158 110.1523,5.0158 C109.4803,5.0158 108.9003,5.1438 108.4113,5.3998 C107.9243,5.6558 107.5193,5.9968 107.2003,6.4198 C106.8793,6.8438 106.6433,7.3238 106.4913,7.8598 C106.3393,8.3958 106.2633,8.9438 106.2633,9.5038 Z M110.1283,18.1438 C108.8323,18.1438 107.6563,17.8958 106.5993,17.3998 C105.5443,16.9038 104.6393,16.2518 103.8873,15.4438 C103.1363,14.6358 102.5523,13.7118 102.1363,12.6718 C101.7203,11.6318 101.5123,10.5598 101.5123,9.4558 C101.5123,8.3358 101.7283,7.2558 102.1593,6.2158 C102.5923,5.1758 103.1963,4.2598 103.9713,3.4678 C104.7473,2.6758 105.6673,2.0438 106.7323,1.5718 C107.7963,1.1008 108.9603,0.8638 110.2233,0.8638 C111.5203,0.8638 112.6963,1.1118 113.7523,1.6078 C114.8073,2.1038 115.7113,2.7598 116.4643,3.5758 C117.2163,4.3918 117.7963,5.3198 118.2033,6.3598 C118.6123,7.3998 118.8163,8.4638 118.8163,9.5518 C118.8163,10.6718 118.5993,11.7478 118.1683,12.7798 C117.7363,13.8118 117.1363,14.7238 116.3673,15.5158 C115.5993,16.3078 114.6833,16.9438 113.6193,17.4238 C112.5553,17.9038 111.3913,18.1438 110.1283,18.1438 Z M100.8163,5.0398 L94.3843,5.0398 L94.3843,17.9998 L89.7033,17.9998 L89.7033,0.9598 L100.8163,0.9598 L100.8163,5.0398 Z" id="Fill-260"></path>
+                <polygon id="Fill-262" points="202.12 18 205.816 18 205.816 13.584 202.12 13.584"></polygon>
+                <path d="M95.1036,51.9197 L95.1036,55.9997 L82.9596,55.9997 L82.9596,38.9597 L94.8876,38.9597 L94.8876,43.0397 L87.6396,43.0397 L87.6396,45.4397 L93.8316,45.4397 L93.8316,49.2317 L87.6396,49.2317 L87.6396,51.9197 L95.1036,51.9197 Z M81.1596,43.0397 L76.2636,43.0397 L76.2636,55.9997 L71.5836,55.9997 L71.5836,43.0397 L66.6636,43.0397 L66.6636,38.9597 L81.1596,38.9597 L81.1596,43.0397 Z M56.9916,52.0637 L59.3436,52.0637 C59.9516,52.0637 60.4116,51.8927 60.7236,51.5477 C61.0356,51.2037 61.1916,50.7357 61.1916,50.1437 C61.1916,49.6317 61.0356,49.1887 60.7236,48.8117 C60.4116,48.4367 59.9516,48.2477 59.3436,48.2477 L56.9916,48.2477 L56.9916,52.0637 Z M52.3116,38.9597 L56.9916,38.9597 L56.9916,44.5997 L59.7756,44.5997 C60.7356,44.5997 61.5956,44.7287 62.3556,44.9837 C63.1156,45.2397 63.7636,45.6117 64.2996,46.0997 C64.8356,46.5877 65.2486,47.1757 65.5356,47.8637 C65.8236,48.5517 65.9676,49.3277 65.9676,50.1917 C65.9676,52.0007 65.4396,53.4197 64.3836,54.4517 C63.3276,55.4837 61.8716,55.9997 60.0156,55.9997 L52.3116,55.9997 L52.3116,38.9597 Z M43.1916,51.9197 L43.1916,43.0397 L40.1676,43.0397 L39.9516,45.3437 C39.8236,46.7837 39.6436,48.0407 39.4116,49.1117 C39.1796,50.1837 38.9036,51.1197 38.5836,51.9197 L43.1916,51.9197 Z M31.7436,51.9197 L32.7996,51.9197 C33.1996,51.9197 33.5396,51.7797 33.8196,51.4997 C34.0996,51.2197 34.3436,50.7677 34.5516,50.1437 C34.7596,49.5197 34.9366,48.6997 35.0806,47.6837 C35.2236,46.6687 35.3676,45.4237 35.5116,43.9517 L35.9676,38.9597 L47.8726,38.9597 L47.8726,51.9197 L50.2716,51.9197 L50.2716,59.9837 L45.7116,59.9837 L45.7116,55.9997 L36.3036,55.9997 L36.3036,59.9837 L31.7436,59.9837 L31.7436,51.9197 Z M20.9676,56.1677 C20.7756,56.1677 20.5516,56.1517 20.2956,56.1197 C20.0396,56.0877 19.7686,56.0317 19.4796,55.9517 C19.1916,55.8717 18.9116,55.7717 18.6396,55.6517 C18.3676,55.5317 18.1276,55.3837 17.9196,55.2077 L18.9036,51.3917 C18.9196,51.4237 18.9756,51.4807 19.0716,51.5597 C19.1676,51.6407 19.2876,51.7197 19.4316,51.7997 C19.5756,51.8797 19.7356,51.9527 19.9116,52.0157 C20.0876,52.0797 20.2796,52.1117 20.4876,52.1117 C20.8396,52.1117 21.1356,52.0237 21.3756,51.8477 C21.6156,51.6717 21.7676,51.4237 21.8326,51.1037 L15.5206,38.9597 L20.6796,38.9597 L23.9196,46.5677 L26.8956,38.9597 L31.8156,38.9597 L25.8156,51.9197 C25.4636,52.6877 25.1236,53.3397 24.7956,53.8757 C24.4676,54.4127 24.1156,54.8477 23.7396,55.1837 C23.3636,55.5197 22.9556,55.7687 22.5156,55.9277 C22.0756,56.0877 21.5596,56.1677 20.9676,56.1677 Z M8.7036,52.0637 C9.3116,52.0637 9.7716,51.9367 10.0836,51.6797 C10.3956,51.4237 10.5516,51.0717 10.5516,50.6237 C10.5516,50.2397 10.3956,49.9077 10.0836,49.6277 C9.7716,49.3487 9.3116,49.2077 8.7036,49.2077 L5.6316,49.2077 L5.6316,52.0637 L8.7036,52.0637 Z M0.9516,38.9597 L13.9836,38.9597 L13.9836,43.0397 L5.6316,43.0397 L5.6316,45.5597 L9.1356,45.5597 C11.1836,45.5597 12.7276,46.0117 13.7686,46.9157 C14.8076,47.8197 15.3276,49.0717 15.3276,50.6717 C15.3276,52.3367 14.8316,53.6397 13.8396,54.5837 C12.8476,55.5277 11.3596,55.9997 9.3756,55.9997 L0.9516,55.9997 L0.9516,38.9597 Z" id="Fill-264"></path>
+            </g>
+            <text id="-" font-family="Raleway-Black, Raleway" font-size="24" font-weight="700"></text>
+            <path d="M140.1359,207.6721 C140.1359,207.2561 140.0239,206.9081 139.7999,206.6281 C139.5759,206.3481 139.2879,206.2081 138.9359,206.2081 L135.0719,206.2081 L135.0719,209.0641 L138.7679,209.0641 C139.1519,209.0641 139.4759,208.9441 139.7399,208.7041 C140.0039,208.4641 140.1359,208.1201 140.1359,207.6721 Z M135.0719,199.9441 L135.0719,202.5601 L138.2639,202.5601 C138.5839,202.5601 138.8759,202.4721 139.1399,202.2961 C139.4039,202.1201 139.5359,201.7681 139.5359,201.2401 C139.5359,200.7761 139.4239,200.4441 139.1999,200.2441 C138.9759,200.0441 138.7119,199.9441 138.4079,199.9441 L135.0719,199.9441 Z M144.8879,208.6321 C144.8879,209.4001 144.7279,210.0601 144.4079,210.6121 C144.0879,211.1641 143.6479,211.6161 143.0879,211.9681 C142.5279,212.3201 141.8759,212.5801 141.1319,212.7481 C140.3879,212.9161 139.5999,213.0001 138.7679,213.0001 L130.3919,213.0001 L130.3919,195.9601 L140.2799,195.9601 C140.8719,195.9601 141.4079,196.0881 141.8879,196.3441 C142.3679,196.6001 142.7759,196.9321 143.1119,197.3401 C143.4479,197.7481 143.7079,198.2121 143.8919,198.7321 C144.0759,199.2521 144.1679,199.7841 144.1679,200.3281 C144.1679,201.1281 143.9639,201.8921 143.5559,202.6201 C143.1479,203.3481 142.5359,203.8961 141.7199,204.2641 C142.6959,204.5521 143.4679,205.0521 144.0359,205.7641 C144.6039,206.4761 144.8879,207.4321 144.8879,208.6321 Z" id="Fill-266" fill="#FFFFFF"></path>
+            <text id="-" font-family="Raleway-Black, Raleway" font-size="24" font-weight="700"></text>
+            <g id="Group-274" transform="translate(26.000000, 195.000000)">
+                <path d="M202.4078,13.9197 L202.4078,17.9997 L190.2638,17.9997 L190.2638,0.9597 L202.1918,0.9597 L202.1918,5.0397 L194.9438,5.0397 L194.9438,7.4397 L201.1368,7.4397 L201.1368,11.2317 L194.9438,11.2317 L194.9438,13.9197 L202.4078,13.9197 Z M172.6478,9.3357 C172.6478,8.2957 172.8438,7.2717 173.2358,6.2637 C173.6278,5.2557 174.1998,4.3527 174.9518,3.5517 C175.7038,2.7527 176.6158,2.1047 177.6878,1.6077 C178.7598,1.1117 179.9838,0.8637 181.3598,0.8637 C183.0078,0.8637 184.4358,1.2037 185.6438,1.8837 C186.8518,2.5647 187.7518,3.4637 188.3448,4.5837 L184.7678,7.1277 C184.6078,6.7117 184.3958,6.3687 184.1328,6.0957 C183.8678,5.8237 183.5758,5.6077 183.2568,5.4477 C182.9358,5.2887 182.6038,5.1757 182.2608,5.1117 C181.9158,5.0477 181.5838,5.0157 181.2638,5.0157 C180.5928,5.0157 180.0118,5.1477 179.5238,5.4117 C179.0358,5.6757 178.6368,6.0207 178.3238,6.4437 C178.0118,6.8677 177.7798,7.3477 177.6288,7.8837 C177.4758,8.4197 177.3998,8.9517 177.3998,9.4797 C177.3998,10.0717 177.4878,10.6407 177.6638,11.1837 C177.8398,11.7287 178.0958,12.2087 178.4318,12.6237 C178.7678,13.0407 179.1798,13.3717 179.6678,13.6197 C180.1558,13.8687 180.7038,13.9917 181.3118,13.9917 C181.6318,13.9917 181.9598,13.9557 182.2968,13.8837 C182.6328,13.8117 182.9558,13.6917 183.2678,13.5237 C183.5798,13.3557 183.8598,13.1397 184.1078,12.8757 C184.3558,12.6117 184.5528,12.2877 184.6958,11.9037 L188.5118,14.1837 C188.2558,14.8077 187.8678,15.3687 187.3478,15.8637 C186.8278,16.3597 186.2358,16.7757 185.5718,17.1117 C184.9078,17.4477 184.1958,17.7037 183.4358,17.8797 C182.6768,18.0557 181.9358,18.1437 181.2168,18.1437 C179.9518,18.1437 178.7958,17.8917 177.7478,17.3877 C176.6998,16.8837 175.7958,16.2157 175.0358,15.3837 C174.2758,14.5517 173.6878,13.6077 173.2718,12.5517 C172.8558,11.4957 172.6478,10.4237 172.6478,9.3357 Z M163.3118,8.6877 L165.7838,8.6877 C166.0718,8.6877 166.3398,8.5557 166.5888,8.2917 C166.8358,8.0277 166.9608,7.5517 166.9608,6.8637 C166.9608,6.1597 166.8158,5.6797 166.5278,5.4237 C166.2398,5.1687 165.9518,5.0397 165.6638,5.0397 L163.3118,5.0397 L163.3118,8.6877 Z M158.6328,17.9997 L158.6328,0.9597 L165.9758,0.9597 C166.8078,0.9597 167.5758,1.1317 168.2798,1.4757 C168.9838,1.8197 169.5888,2.2677 170.0928,2.8197 C170.5958,3.3717 170.9918,4.0037 171.2798,4.7157 C171.5678,5.4277 171.7128,6.1437 171.7128,6.8637 C171.7128,7.6157 171.5758,8.3487 171.3038,9.0597 C171.0318,9.7727 170.6518,10.4037 170.1638,10.9557 C169.6758,11.5077 169.0838,11.9477 168.3878,12.2757 C167.6918,12.6047 166.9278,12.7677 166.0958,12.7677 L163.3118,12.7677 L163.3118,17.9997 L158.6328,17.9997 Z M146.6798,18.1677 C146.4878,18.1677 146.2638,18.1517 146.0088,18.1197 C145.7518,18.0877 145.4798,18.0317 145.1918,17.9517 C144.9038,17.8717 144.6238,17.7717 144.3518,17.6517 C144.0798,17.5317 143.8398,17.3837 143.6328,17.2077 L144.6158,13.3917 C144.6318,13.4237 144.6878,13.4807 144.7838,13.5597 C144.8808,13.6407 144.9998,13.7197 145.1438,13.7997 C145.2878,13.8797 145.4478,13.9527 145.6238,14.0157 C145.8008,14.0797 145.9918,14.1117 146.1998,14.1117 C146.5518,14.1117 146.8478,14.0237 147.0888,13.8477 C147.3278,13.6717 147.4798,13.4237 147.5448,13.1037 L141.2318,0.9597 L146.3918,0.9597 L149.6328,8.5677 L152.6078,0.9597 L157.5278,0.9597 L151.5278,13.9197 C151.1768,14.6877 150.8358,15.3397 150.5088,15.8757 C150.1798,16.4127 149.8278,16.8477 149.4518,17.1837 C149.0758,17.5197 148.6678,17.7687 148.2278,17.9277 C147.7878,18.0877 147.2718,18.1677 146.6798,18.1677 Z M131.1038,7.4637 L131.4648,7.4637 L136.1678,0.9597 L141.4478,0.9597 L135.2798,9.1917 L141.9998,17.9997 L136.7918,17.9997 L131.8718,11.7117 L131.1038,11.7117 L131.1038,17.9997 L126.4478,17.9997 L126.4478,0.9597 L131.1038,0.9597 L131.1038,7.4637 Z" id="Fill-268" fill="#FFFFFF"></path>
+                <path d="M160.192,39.9602 L163.289,45.3362 L166.384,39.9602 L171.424,39.9602 L165.736,48.6002 L171.232,57.0002 L166.192,57.0002 L163.289,51.8632 L160.384,57.0002 L155.32,57.0002 L160.816,48.6002 L155.129,39.9602 L160.192,39.9602 Z M149.152,57.0002 L153.833,57.0002 L153.833,39.9602 L149.152,39.9602 L149.152,57.0002 Z M137.992,53.0642 L140.344,53.0642 C140.952,53.0642 141.413,52.8922 141.724,52.5482 C142.037,52.2042 142.192,51.7352 142.192,51.1442 C142.192,50.6322 142.037,50.1882 141.724,49.8122 C141.413,49.4362 140.952,49.2482 140.344,49.2482 L137.992,49.2482 L137.992,53.0642 Z M133.312,39.9602 L137.992,39.9602 L137.992,45.6002 L140.776,45.6002 C141.736,45.6002 142.596,45.7282 143.356,45.9832 C144.116,46.2402 144.764,46.6112 145.3,47.1002 C145.837,47.5882 146.249,48.1762 146.537,48.8632 C146.824,49.5522 146.968,50.3282 146.968,51.1912 C146.968,53.0002 146.44,54.4202 145.384,55.4522 C144.329,56.4832 142.872,57.0002 141.016,57.0002 L133.312,57.0002 L133.312,39.9602 Z M130.192,39.9602 L130.192,57.0002 L125.512,57.0002 L125.512,50.3282 L119.8,50.3282 L119.8,57.0002 L115.12,57.0002 L115.12,39.9602 L119.8,39.9602 L119.8,46.2482 L125.512,46.2482 L125.512,39.9602 L130.192,39.9602 Z M104.129,53.0642 L106.481,53.0642 C107.088,53.0642 107.548,52.8922 107.86,52.5482 C108.172,52.2042 108.328,51.7352 108.328,51.1442 C108.328,50.6322 108.172,50.1882 107.86,49.8122 C107.548,49.4362 107.088,49.2482 106.481,49.2482 L104.129,49.2482 L104.129,53.0642 Z M99.448,39.9602 L104.129,39.9602 L104.129,45.6002 L106.912,45.6002 C107.872,45.6002 108.732,45.7282 109.492,45.9832 C110.252,46.2402 110.9,46.6112 111.436,47.1002 C111.972,47.5882 112.384,48.1762 112.672,48.8632 C112.961,49.5522 113.105,50.3282 113.105,51.1912 C113.105,53.0002 112.576,54.4202 111.521,55.4522 C110.464,56.4832 109.008,57.0002 107.152,57.0002 L99.448,57.0002 L99.448,39.9602 Z M88.432,46.3442 C88.224,48.5042 87.96,50.2792 87.64,51.6722 C87.32,53.0642 86.868,54.1682 86.284,54.9832 C85.7,55.8002 84.944,56.3682 84.016,56.6882 C83.088,57.0082 81.912,57.1682 80.488,57.1682 L80.488,53.1362 C81.096,53.0722 81.592,52.9362 81.976,52.7282 C82.36,52.5202 82.672,52.1362 82.912,51.5752 C83.152,51.0162 83.352,50.2122 83.512,49.1642 C83.672,48.1162 83.832,46.7122 83.992,44.9522 L84.448,39.9602 L96.352,39.9602 L96.352,57.0002 L91.672,57.0002 L91.672,44.0402 L88.648,44.0402 L88.432,46.3442 Z M73.696,50.5442 L72.184,45.2642 L70.6,50.5442 L73.696,50.5442 Z M70.048,39.9602 L74.32,39.9602 L80.224,57.0002 L75.472,57.0002 L74.44,53.6642 L69.904,53.6642 L68.896,57.0002 L64.12,57.0002 L70.048,39.9602 Z M53.776,57.1682 C53.584,57.1682 53.36,57.1512 53.104,57.1202 C52.848,57.0882 52.576,57.0312 52.288,56.9522 C52,56.8722 51.72,56.7722 51.448,56.6512 C51.176,56.5312 50.936,56.3842 50.728,56.2082 L51.712,52.3922 C51.728,52.4242 51.784,52.4802 51.88,52.5602 C51.976,52.6402 52.096,52.7202 52.24,52.8002 C52.384,52.8802 52.544,52.9522 52.72,53.0162 C52.896,53.0802 53.088,53.1112 53.296,53.1112 C53.648,53.1112 53.944,53.0232 54.184,52.8482 C54.424,52.6722 54.576,52.4242 54.64,52.1042 L48.328,39.9602 L53.488,39.9602 L56.728,47.5672 L59.704,39.9602 L64.624,39.9602 L58.624,52.9202 C58.272,53.6882 57.932,54.3402 57.604,54.8762 C57.276,55.4122 56.924,55.8482 56.548,56.1842 C56.172,56.5202 55.764,56.7682 55.324,56.9282 C54.884,57.0882 54.368,57.1682 53.776,57.1682 Z M48.304,44.0402 L43.408,44.0402 L43.408,57.0002 L38.728,57.0002 L38.728,44.0402 L33.808,44.0402 L33.808,39.9602 L48.304,39.9602 L48.304,44.0402 Z M23.224,46.4642 L23.584,46.4642 L28.288,39.9602 L33.568,39.9602 L27.4,48.1912 L34.12,57.0002 L28.912,57.0002 L23.992,50.7122 L23.224,50.7122 L23.224,57.0002 L18.568,57.0002 L18.568,39.9602 L23.224,39.9602 L23.224,46.4642 Z M10.528,50.5442 L9.016,45.2642 L7.432,50.5442 L10.528,50.5442 Z M6.88,39.9602 L11.152,39.9602 L17.056,57.0002 L12.304,57.0002 L11.272,53.6642 L6.736,53.6642 L5.728,57.0002 L0.952,57.0002 L6.88,39.9602 Z" id="Fill-270" fill="#4A66AF"></path>
+                <path d="M131.5836,72.0159 C131.5836,72.5919 131.4636,73.1169 131.2236,73.5879 C130.9826,74.0599 130.6396,74.4679 130.1906,74.8119 C129.7436,75.1569 129.2116,75.4239 128.5956,75.6159 C127.9796,75.8079 127.3036,75.9039 126.5666,75.9039 C125.8146,75.9039 125.1356,75.8079 124.5276,75.6159 C123.9196,75.4239 123.3916,75.1569 122.9426,74.8119 C122.4956,74.4679 122.1506,74.0599 121.9116,73.5879 C121.6716,73.1169 121.5516,72.5919 121.5516,72.0159 L124.3836,72.0159 C124.3836,72.4319 124.6036,72.7809 125.0436,73.0599 C125.4826,73.3399 125.9916,73.4799 126.5666,73.4799 C127.1276,73.4799 127.6116,73.3399 128.0196,73.0599 C128.4276,72.7809 128.6716,72.4319 128.7516,72.0159 L131.5836,72.0159 Z M123.1836,86.7039 L130.4316,76.9599 L133.8396,76.9599 L133.8396,93.9999 L129.1596,93.9999 L129.1596,84.5439 L121.9826,93.9999 L118.5036,93.9999 L118.5036,76.9599 L123.1836,76.9599 L123.1836,86.7039 Z M116.2236,89.9199 L116.2236,93.9999 L104.0796,93.9999 L104.0796,76.9599 L116.0076,76.9599 L116.0076,81.0399 L108.7596,81.0399 L108.7596,83.4399 L114.9516,83.4399 L114.9516,87.2319 L108.7596,87.2319 L108.7596,89.9199 L116.2236,89.9199 Z M102.2796,81.0399 L97.3836,81.0399 L97.3836,93.9999 L92.7036,93.9999 L92.7036,81.0399 L87.7836,81.0399 L87.7836,76.9599 L102.2796,76.9599 L102.2796,81.0399 Z M71.4876,85.3359 C71.4876,84.2959 71.6836,83.2719 72.0756,82.2639 C72.4676,81.2559 73.0396,80.3519 73.7916,79.5519 C74.5436,78.7519 75.4556,78.1039 76.5276,77.6079 C77.5996,77.1129 78.8236,76.8639 80.1996,76.8639 C81.8476,76.8639 83.2756,77.2039 84.4836,77.8839 C85.6916,78.5639 86.5916,79.4639 87.1836,80.5839 L83.6076,83.1279 C83.4476,82.7119 83.2356,82.3689 82.9716,82.0959 C82.7076,81.8249 82.4156,81.6079 82.0956,81.4479 C81.7756,81.2879 81.4436,81.1759 81.0996,81.1119 C80.7556,81.0479 80.4236,81.0159 80.1036,81.0159 C79.4316,81.0159 78.8516,81.1479 78.3636,81.4119 C77.8756,81.6759 77.4756,82.0199 77.1636,82.4439 C76.8516,82.8689 76.6196,83.3479 76.4676,83.8839 C76.3156,84.4199 76.2396,84.9529 76.2396,85.4799 C76.2396,86.0729 76.3276,86.6399 76.5036,87.1839 C76.6796,87.7279 76.9356,88.2079 77.2716,88.6239 C77.6076,89.0399 78.0196,89.3719 78.5076,89.6199 C78.9956,89.8689 79.5436,89.9919 80.1516,89.9919 C80.4716,89.9919 80.7996,89.9559 81.1356,89.8839 C81.4716,89.8119 81.7956,89.6919 82.1076,89.5239 C82.4196,89.3559 82.6996,89.1399 82.9476,88.8759 C83.1956,88.6119 83.3916,88.2879 83.5356,87.9039 L87.3516,90.1839 C87.0956,90.8079 86.7076,91.3689 86.1876,91.8639 C85.6676,92.3599 85.0756,92.7759 84.4116,93.1119 C83.7476,93.4479 83.0356,93.7039 82.2756,93.8799 C81.5156,94.0559 80.7756,94.1439 80.0556,94.1439 C78.7916,94.1439 77.6356,93.8919 76.5876,93.3879 C75.5396,92.8839 74.6356,92.2159 73.8756,91.3839 C73.1156,90.5519 72.5276,89.6079 72.1116,88.5519 C71.6956,87.4959 71.4876,86.4239 71.4876,85.3359 Z M57.8796,85.5039 C57.8796,86.0799 57.9596,86.6359 58.1196,87.1719 C58.2796,87.7079 58.5196,88.1839 58.8396,88.5999 C59.1596,89.0159 59.5636,89.3519 60.0516,89.6079 C60.5396,89.8649 61.1196,89.9919 61.7916,89.9919 C62.4636,89.9919 63.0476,89.8599 63.5436,89.5959 C64.0396,89.3319 64.4436,88.9889 64.7556,88.5639 C65.0676,88.1399 65.2996,87.6569 65.4516,87.1119 C65.6036,86.5689 65.6796,86.0159 65.6796,85.4559 C65.6796,84.8799 65.5996,84.3249 65.4396,83.7879 C65.2796,83.2519 65.0356,82.7799 64.7076,82.3719 C64.3796,81.9639 63.9716,81.6359 63.4836,81.3879 C62.9956,81.1399 62.4236,81.0159 61.7676,81.0159 C61.0956,81.0159 60.5156,81.1439 60.0276,81.3999 C59.5396,81.6569 59.1356,81.9959 58.8156,82.4199 C58.4956,82.8439 58.2596,83.3249 58.1076,83.8599 C57.9556,84.3959 57.8796,84.9439 57.8796,85.5039 Z M61.7436,94.1439 C60.4476,94.1439 59.2716,93.8959 58.2156,93.3999 C57.1596,92.9049 56.2556,92.2519 55.5036,91.4439 C54.7516,90.6359 54.1676,89.7119 53.7516,88.6719 C53.3356,87.6319 53.1276,86.5599 53.1276,85.4559 C53.1276,84.3359 53.3436,83.2559 53.7756,82.2159 C54.2076,81.1759 54.8116,80.2599 55.5876,79.4679 C56.3636,78.6759 57.2836,78.0439 58.3476,77.5719 C59.4116,77.0999 60.5756,76.8639 61.8396,76.8639 C63.1356,76.8639 64.3116,77.1129 65.3676,77.6079 C66.4236,78.1039 67.3276,78.7599 68.0796,79.5759 C68.8316,80.3919 69.4116,81.3199 69.8196,82.3599 C70.2276,83.4009 70.4316,84.4639 70.4316,85.5519 C70.4316,86.6719 70.2156,87.7479 69.7836,88.7799 C69.3516,89.8119 68.7516,90.7239 67.9836,91.5159 C67.2156,92.3079 66.2996,92.9439 65.2356,93.4239 C64.1716,93.9039 63.0076,94.1439 61.7436,94.1439 Z M47.2476,88.6719 C47.2476,88.2559 47.1356,87.9089 46.9116,87.6279 C46.6876,87.3479 46.3996,87.2079 46.0476,87.2079 L42.1836,87.2079 L42.1836,90.0639 L45.8796,90.0639 C46.2636,90.0639 46.5876,89.9439 46.8516,89.7039 C47.1156,89.4639 47.2476,89.1199 47.2476,88.6719 Z M42.1836,80.9439 L42.1836,83.5599 L45.3756,83.5599 C45.6956,83.5599 45.9876,83.4719 46.2516,83.2959 C46.5156,83.1199 46.6476,82.7679 46.6476,82.2399 C46.6476,81.7759 46.5356,81.4449 46.3116,81.2449 C46.0876,81.0439 45.8236,80.9439 45.5196,80.9439 L42.1836,80.9439 Z M51.9996,89.6319 C51.9996,90.3999 51.8396,91.0599 51.5196,91.6119 C51.1996,92.1639 50.7596,92.6169 50.1996,92.9679 C49.6396,93.3199 48.9876,93.5799 48.2436,93.7479 C47.4996,93.9159 46.7116,93.9999 45.8796,93.9999 L37.5036,93.9999 L37.5036,76.9599 L47.3916,76.9599 C47.9836,76.9599 48.5196,77.0879 48.9996,77.3439 C49.4796,77.5999 49.8876,77.9319 50.2236,78.3399 C50.5596,78.7479 50.8196,79.2119 51.0036,79.7319 C51.1876,80.2519 51.2796,80.7849 51.2796,81.3289 C51.2796,82.1279 51.0756,82.8919 50.6676,83.6199 C50.2596,84.3479 49.6476,84.8959 48.8316,85.2639 C49.8076,85.5519 50.5796,86.0519 51.1476,86.7639 C51.7156,87.4759 51.9996,88.4319 51.9996,89.6319 Z M22.8636,85.5039 C22.8636,86.0799 22.9436,86.6359 23.1036,87.1719 C23.2636,87.7079 23.5036,88.1839 23.8236,88.5999 C24.1436,89.0159 24.5476,89.3519 25.0356,89.6079 C25.5236,89.8649 26.1036,89.9919 26.7756,89.9919 C27.4476,89.9919 28.0316,89.8599 28.5276,89.5959 C29.0236,89.3319 29.4276,88.9889 29.7396,88.5639 C30.0516,88.1399 30.2836,87.6569 30.4356,87.1119 C30.5876,86.5689 30.6636,86.0159 30.6636,85.4559 C30.6636,84.8799 30.5836,84.3249 30.4236,83.7879 C30.2636,83.2519 30.0196,82.7799 29.6916,82.3719 C29.3636,81.9639 28.9556,81.6359 28.4676,81.3879 C27.9796,81.1399 27.4076,81.0159 26.7516,81.0159 C26.0796,81.0159 25.4996,81.1439 25.0116,81.3999 C24.5236,81.6569 24.1196,81.9959 23.7996,82.4199 C23.4796,82.8439 23.2436,83.3249 23.0916,83.8599 C22.9396,84.3959 22.8636,84.9439 22.8636,85.5039 Z M26.7276,94.1439 C25.4316,94.1439 24.2556,93.8959 23.1996,93.3999 C22.1436,92.9049 21.2396,92.2519 20.4876,91.4439 C19.7356,90.6359 19.1516,89.7119 18.7356,88.6719 C18.3196,87.6319 18.1116,86.5599 18.1116,85.4559 C18.1116,84.3359 18.3276,83.2559 18.7596,82.2159 C19.1916,81.1759 19.7956,80.2599 20.5716,79.4679 C21.3476,78.6759 22.2676,78.0439 23.3316,77.5719 C24.3956,77.0999 25.5596,76.8639 26.8236,76.8639 C28.1196,76.8639 29.2956,77.1129 30.3516,77.6079 C31.4076,78.1039 32.3116,78.7599 33.0636,79.5759 C33.8156,80.3919 34.3956,81.3199 34.8036,82.3599 C35.2116,83.4009 35.4156,84.4639 35.4156,85.5519 C35.4156,86.6719 35.1996,87.7479 34.7676,88.7799 C34.3356,89.8119 33.7356,90.7239 32.9676,91.5159 C32.1996,92.3079 31.2836,92.9439 30.2196,93.4239 C29.1556,93.9039 27.9916,94.1439 26.7276,94.1439 Z M16.0236,76.9599 L16.0236,93.9999 L11.3436,93.9999 L11.3436,87.3289 L5.6316,87.3289 L5.6316,93.9999 L0.9516,93.9999 L0.9516,76.9599 L5.6316,76.9599 L5.6316,83.2479 L11.3436,83.2479 L11.3436,76.9599 L16.0236,76.9599 Z" id="Fill-272" fill="#4A66AF"></path>
+            </g>
+            <text id="-" font-family="Raleway-Black, Raleway" font-size="24" font-weight="700"></text>
+            <polygon id="Fill-275" fill="#FFFFFF" points="29.25 106.75 273.25 106.75 273.25 105.25 29.25 105.25"></polygon>
+        </g>
+    </g>
+</svg>
